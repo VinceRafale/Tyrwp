@@ -6,8 +6,10 @@
 
 <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
 	<?php if ( has_post_thumbnail() ) : ?>
+		<a href="<?php echo get_permalink(); ?>">
 			<div class="post-img"><?php the_post_thumbnail(); ?></div>
-		<?php endif; ?>
+		</a>
+	<?php endif; ?>
 	<header class="entry-header">
 		<h1 class="entry-title"><a href="<?php the_permalink(); ?>" rel="bookmark"><?php the_title(); ?></a></h1>
 
