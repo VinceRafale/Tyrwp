@@ -1,0 +1,594 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"tet",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"wid",
+				"max-width"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"s",
+				"style	<style>"
+			],
+			[
+				"h",
+				"head	<head>"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"b",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"hr",
+				"href	Attr"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"ar",
+				"article	<article>"
+			],
+			[
+				"l",
+				"link	link - stylesheet"
+			],
+			[
+				"link",
+				"link	link - alternate"
+			],
+			[
+				"v",
+				"visibility"
+			],
+			[
+				"border",
+				"border-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 430.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Library/WebServer/Documents/tyr/wp-content/themes/JointsWP-master/library/scss/_foundation.scss",
+		"/Library/WebServer/Documents/tyr/wp-content/themes/JointsWP-master/library/scss/config.rb",
+		"/Library/WebServer/Documents/tyr/wp-content/themes/tyr/sassy_s/foundation/_functions.scss",
+		"/Library/WebServer/Documents/tyr/wp-content/themes/tyr/sassy_s/_grid.scss",
+		"/Library/WebServer/Documents/tyr/wp-content/themes/tyr/sassy_s/_forms.scss",
+		"/Library/WebServer/Documents/tyr/wp-content/themes/tyr/sassy_s/_settings.scss",
+		"/Library/WebServer/Documents/tyr/wp-content/themes/tyr/style.css",
+		"/Library/WebServer/Documents/tyr/wp-content/themes/tyr/sassy_s/_menu.scss",
+		"/Library/WebServer/Documents/tyr/wp-content/themes/tyr/sassy_s/_normalize.scss",
+		"/Library/WebServer/Documents/tyr/wp-content/themes/tyr/inc/custom-header.php",
+		"/Library/WebServer/Documents/tyr/wp-content/themes/tyr/sassy_s/foundation/_grid.scss",
+		"/Library/WebServer/Documents/tyr/wp-content/themes/tyr/sassy_s/_layout.scss",
+		"/Library/WebServer/Documents/tyr/wp-content/themes/tyr/sassy_s/foundation/_settings.scss",
+		"/Library/WebServer/Documents/tyr/wp-content/themes/tyr/sassy_s/_reset.scss",
+		"/Library/WebServer/Documents/tyr/wp-content/themes/tyr/sassy_s/foundation source/foundation.scss",
+		"/Library/WebServer/Documents/tyr/wp-content/themes/tyr/sassy_s/foundation/components/_global.scss",
+		"/Library/WebServer/Documents/tyr/wp-content/themes/tyr/sassy_s/found/foundation/components/_grid.scss",
+		"/Library/WebServer/Documents/tyr/wp-content/themes/tyr/header.php",
+		"/Library/WebServer/Documents/tyr/wp-content/themes/tyr/layouts/content-sidebar.css",
+		"/Library/WebServer/Documents/tyr/wp-content/themes/tyr/layouts/sidebar-content.css",
+		"/Library/WebServer/Documents/tyr/wp-content/themes/tyr/sassy_s/_foundation.scss",
+		"/Library/WebServer/Documents/tyr/wp-content/themes/tyr/sassy_s/foundation/components/_grid.scss",
+		"/Library/WebServer/Documents/tyr/wp-content/themes/tyr/sassy_s/_typography.scss",
+		"/Library/WebServer/Documents/tyr/wp-content/themes/tyr/sassy_s/normalize.scss",
+		"/Library/WebServer/Documents/tyr/wp-content/themes/tyr/style2.css",
+		"/Library/WebServer/Documents/tyr/wp-content/themes/tyr/sassy_s/_global.scss",
+		"/Library/WebServer/Documents/tyr/wp-content/themes/tyr/sassy_s/_mixins.scss",
+		"/Library/WebServer/Documents/tyr/wp-content/themes/tyr/footer.php",
+		"/Library/WebServer/Documents/tyr/wp-content/themes/tyr/inc/extras.php",
+		"/Library/WebServer/Documents/tyr/wp-content/themes/tyr/frontpage.php",
+		"/Library/WebServer/Documents/tyr/wp-content/themes/tyr/layouts/frontpage.php",
+		"/Library/WebServer/Documents/tyr/wp-content/themes/tyr/page.php",
+		"/Library/WebServer/Documents/tyr/wp-content/themes/tyr/content-single.php",
+		"/Library/WebServer/Documents/tyr/wp-content/themes/tyr/content-page.php",
+		"/Library/WebServer/Documents/tyr/wp-content/themes/tyr/languages/tyr.pot",
+		"/Users/hollowell/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/hollowell/Library/Caches/Cleanup At Startup/Transmit/9791E5B8-62E4-40A7-83E6-C1D7E2385FCE/eventor-eventlist.php",
+		"/Users/hollowell/Library/Caches/Cleanup At Startup/Transmit/08F549A3-E257-4E21-B61C-066BD9C0649B/eventor-eventlist.php",
+		"/Users/hollowell/Desktop/soft.scss",
+		"/Users/hollowell/Desktop/css/soft.css",
+		"/Users/hollowell/Desktop/css/orientering.css",
+		"/Users/hollowell/Desktop/soft/sass/style.scss",
+		"/Library/WebServer/Documents/tyr/wp-content/themes/tyr/sass/screen.scss",
+		"/Library/WebServer/Documents/tyr/wp-content/themes/tyr/sass/foundation.scss",
+		"/Library/WebServer/Documents/tyr/wp-content/themes/tyr/sidebar.php",
+		"/Library/WebServer/Documents/tyr/wp-content/themes/tyr/index.php",
+		"/Library/WebServer/Documents/tyr/wp-content/themes/tyr/sass/foundation/_settings.scss",
+		"/Library/WebServer/Documents/tyr/wp-content/themes/tyr/sass/style.scss",
+		"/Library/WebServer/Documents/tyr/wp-content/themes/tyr/sass/_dev.scss",
+		"/Library/WebServer/Documents/tyr/wp-content/themes/tyr/old",
+		"/Library/WebServer/Documents/tyr/wp-content/themes/tyr/sass/normalize.scss",
+		"/Library/WebServer/Documents/tyr/wp-content/themes/tyr/scss/style.scss",
+		"/Library/WebServer/Documents/tyr/wp-content/themes/tyr/scss/_dev.scss",
+		"/Users/hollowell/Desktop/index.html",
+		"/Library/WebServer/Documents/fk2014/css/screen.css",
+		"/Users/hollowell/Desktop/hallands3dagars.css",
+		"/Library/WebServer/Documents/fk2014/index.html",
+		"/Library/WebServer/Documents/laget/style.css",
+		"/Library/WebServer/Documents/laget/index.html",
+		"/Users/hollowell/Downloads/snazzy-maps-example-subtle-style.html",
+		"/Library/WebServer/Documents/support/include/client/header.inc.php",
+		"/Library/WebServer/Documents/support/include/client/footer.inc.php",
+		"/Library/WebServer/Documents/support/index.php",
+		"/Library/WebServer/Documents/tyr/wp-content/themes/oktyr/languages/oktyr.pot",
+		"/Library/WebServer/Documents/varmlandsanglok/img/hollowell.svg",
+		"/Library/WebServer/Documents/varmlandsanglok/index.html",
+		"/Library/WebServer/Documents/varmlandsanglok/style.css",
+		"/Library/WebServer/Documents/steamer/wp-content/themes/varmlandsanglok/style.css",
+		"/Library/WebServer/Documents/steamer/wp-content/themes/steamer/library/scss/_1030up.scss",
+		"/Library/WebServer/Documents/steamer/wp-content/themes/steamer/library/scss/_1240up.scss",
+		"/Library/WebServer/Documents/steamer/wp-content/themes/steamer/library/scss/_481up.scss",
+		"/Library/WebServer/Documents/steamer/wp-content/themes/steamer/library/scss/style.scss",
+		"/Library/WebServer/Documents/steamer/wp-content/themes/steamer/library/scss/_mixins.scss",
+		"/Library/WebServer/Documents/steamer/wp-content/themes/steamer/library/scss/_base.scss",
+		"/Library/WebServer/Documents/steamer/wp-content/themes/steamer/header.php",
+		"/Library/WebServer/Documents/steamer/wp-content/themes/steamer/style.css",
+		"/Users/hollowell/Desktop/innebandy/style.css",
+		"/Users/hollowell/Desktop/innebandy/index.html",
+		"/Library/WebServer/Documents/anchor/splash.html",
+		"/Library/WebServer/Documents/grafiskprofil/css/foundation.css",
+		"/Users/hollowell/Downloads/foundation-5.0.2.custom/css/style.css",
+		"/Users/hollowell/Downloads/foundation-5.0.2.custom/index.html",
+		"/Users/hollowell/Downloads/foundation-5.0.2.custom/css/foundation.css",
+		"/Users/hollowell/Downloads/foundation-5.0.2.custom/css/foundation.min.css",
+		"/Users/hollowell/Library/Caches/Cleanup At Startup/Transmit/98FA40DE-D3CA-4D07-B390-205B8F395996/Web.config",
+		"/Users/hollowell/Library/Caches/Cleanup At Startup/Transmit/F6B63BFB-BA95-4869-B7E1-719D467AAEE8/Settings.aspx",
+		"/Users/hollowell/Downloads/165869-friskaksd_20131125_635210034889973258.bak",
+		"/Users/hollowell/Downloads/CustomDropDownListStyling/css/style.css",
+		"/Users/hollowell/Downloads/CustomDropDownListStyling/css/demo.css",
+		"/Users/hollowell/Library/Caches/Cleanup At Startup/Transmit/6F21D8FB-B39D-4DB4-B711-5EBEA950DFD8/template.php",
+		"/Users/hollowell/Library/Caches/Cleanup At Startup/Transmit/3B15A8AF-5F63-4D8E-9ECA-C10F6BD8D583/header.inc.php",
+		"/Users/hollowell/Library/Caches/Cleanup At Startup/Transmit/9D6BD845-B589-4112-B211-0BC7196B14A3/mobile.css",
+		"/Library/WebServer/Documents/anchor/assets/css/style.css",
+		"/Library/WebServer/Documents/anchor/index.html",
+		"/Library/WebServer/Documents/anchor.1/themes/hollowell/css/small.css",
+		"/Library/WebServer/Documents/hollowell/wp-content/themes/hollowell/assets/scss/foundation/components/_global.scss",
+		"/Library/WebServer/Documents/hollowell/wp-content/themes/hollowell/library/setup.php",
+		"/Library/WebServer/Documents/hollowell/wp-content/themes/hollowell/assets/scss/foundation.scss",
+		"/Library/WebServer/Documents/hollowell/wp-content/themes/hollowell/assets/scss/foundation/_theme.scss",
+		"/Library/WebServer/Documents/hollowell/wp-content/themes/hollowell/index.php",
+		"/Library/WebServer/Documents/hollowell/wp-content/themes/hollowell/assets/scss/foundation/components/_grid.scss",
+		"/Library/WebServer/Documents/hollowell/wp-content/themes/hollowell/assets/scss/foundation/_variables.scss",
+		"/Library/WebServer/Documents/hollowell/wp-content/themes/hollowell/library/template.php",
+		"/Library/WebServer/Documents/hollowell/wp-content/themes/hollowell/library/custom.php",
+		"/Library/WebServer/Documents/hollowell/wp-content/themes/hollowell/functions.php",
+		"/Library/WebServer/Documents/hollowell/wp-content/themes/hollowell/style.scss",
+		"/Library/WebServer/Documents/hollowell/wp-content/themes/hollowell/style.css",
+		"/Library/WebServer/Documents/hollowell/wp-content/themes/hollowell/-style.css",
+		"/Library/WebServer/Documents/hollowell/wp-content/themes/hollowell/scss/style.scss",
+		"/Library/WebServer/Documents/hollowell/wp-content/themes/hollowell/scss/_theme.scss",
+		"/Users/hollowell/Library/Caches/Cleanup At Startup/Transmit/968F944F-EF93-4C68-855D-DC15167CE891/index.html",
+		"/Users/hollowell/Desktop/orientering.scss",
+		"/Users/hollowell/Desktop/css/untitled.html",
+		"/Users/hollowell/Desktop/vinnare friska karlstad",
+		"/Users/hollowell/Desktop/soft.css",
+		"/Library/WebServer/Documents/tyr/wp-content/themes/builder/library/less/bootstrap/variables.less",
+		"/Library/WebServer/Documents/tyr/wp-content/themes/builder/library/less/style.less",
+		"/Library/WebServer/Documents/tyr/wp-content/themes/trasa.sublime-project",
+		"/Users/hollowell/Downloads/couchpotato (1).user.js"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"$body-font-family",
+			"table",
+			"<tr>",
+			"<td>",
+			"</tr>",
+			"</td>",
+			"<tr>",
+			"</tr>",
+			"td",
+			"NewsListSourceDiv",
+			"width",
+			"1160px",
+			"a",
+			"1-4",
+			"color: white",
+			"h3",
+			"p",
+			"063a3e",
+			"main",
+			"article",
+			"nav",
+			"navigation",
+			"icon",
+			"WideCenterDivLeft",
+			"medium-3",
+			"small-6",
+			"small-6 large-3 columns",
+			"medium",
+			"large",
+			"- ",
+			"ö",
+			"å",
+			"ä",
+			"<p>",
+			"</p>",
+			"p",
+			"ö",
+			"ä",
+			"å",
+			"h2",
+			"h1",
+			"normalize",
+			"topimagephoto",
+			"media",
+			"@media",
+			"addthis_toolbox addthis_default_style",
+			"(max-width: 320px)",
+			"RightDiv",
+			"width: 150px;",
+			"RightDiv",
+			"margin-bottom: 15px;",
+			"RightDiv",
+			"#CenterDiv ",
+			"#CenterDiv .PaddingDiv h2",
+			"TeaserNewsListboxFullWidth",
+			"MedelpadsOrienteringsforbund/",
+			"Jamtland-HarjedalensOrienteringsforbund/",
+			"Jamtland-HarjedalensOrienteringsforbund/\n",
+			"HalsinglandsOrienteringsforbund/",
+			"amla.orientering.se/Distriktssidor/HallandsOrienteringsforbund/",
+			"#lock",
+			"lock",
+			"span",
+			"4298B5",
+			"ff7c00",
+			"290a59",
+			"6a2d3f",
+			"290a59",
+			"2F2727",
+			"ff7c00",
+			"1a82f7",
+			"NewsListBoxFooterDiv",
+			"TopMenuList",
+			".NewsListTitleLargeDiv",
+			"TopAreaDiv",
+			"#MainDiv",
+			"NewsListBoxIntroDiv",
+			"NewsListBoxLargeImage",
+			"TopMenuDiv",
+			"letter-spaceing",
+			"font-reg",
+			"font-family",
+			"font-weight:",
+			"font-weight: normal;",
+			"font-weight:",
+			"$font-bold",
+			"'Proxima N W01 Reg'",
+			"Proxima N W01 Reg",
+			"'Proxima N W01 Bold'",
+			"Proxima N W01 Bold",
+			"NewsListTitleLargeDiv",
+			"{\n",
+			"#TopDiv",
+			".NewsListBoxLargeTopImage",
+			".NewsImageList .NewsListBoxLargeTopImage",
+			"NewsListBoxResponsiveImage",
+			"NewsListBoxLargeTopImage",
+			"LeftMenuItem i",
+			"1.4em",
+			"StartPageBoxNarrow",
+			"#IONavigationBar .leftfloating",
+			"span",
+			"PageBodyDiv",
+			"span",
+			"PageFooterDiv",
+			"NewsPageTopImage",
+			"html",
+			"grid",
+			"max-w",
+			"2183",
+			"?v=10855f49",
+			"/util",
+			"/javascript/",
+			"NewsListBoxLargeImage",
+			"startpagebox",
+			"C1A500",
+			"c1a500",
+			"C1A500",
+			"c1a500",
+			"C1A500",
+			"c1a500",
+			"C1A500",
+			"c1a500",
+			"55px",
+			"padding:20px 10px;",
+			"padding: 20px 10px;",
+			"002786",
+			"NewsListBoxLargeImage"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "tyr.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/soft.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 220.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
