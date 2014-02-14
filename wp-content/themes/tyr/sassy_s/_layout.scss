@@ -1,0 +1,23 @@
+.layout, .site-content {
+	@include grid-row();
+}
+.site-branding {
+	@include grid-column(3);
+}
+.main-navigation {
+	@include grid-column(9);
+}
+.content-area {
+	@include grid-column(8);
+}
+.widget-area {
+	@include grid-column(4);
+}
+.post-img {
+	width: 100%;
+	// margin-bottom: -50px;
+}
+.entry-header {
+	@include grid-row();
+	// padding: 10px 0 10px 40px;
+}

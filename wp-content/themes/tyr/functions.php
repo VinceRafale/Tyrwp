@@ -39,7 +39,7 @@ function tyr_setup() {
 	 * @link http://codex.wordpress.org/Function_Reference/add_theme_support#Post_Thumbnails
 	 */
 	add_theme_support( 'post-thumbnails', array( 'post' ) );
-	set_post_thumbnail_size( 700, 300, true);
+	set_post_thumbnail_size( 900, 500, true);
 
 
 	// This theme uses wp_nav_menu() in two location.

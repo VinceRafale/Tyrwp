@@ -1,4 +1,5 @@
 @charset "UTF-8";
+@import url(http://fonts.googleapis.com/css?family=Titillium+Web:300,300italic,400,400italic,700);
 /*
 Theme Name: Orienteringsklubben Tyr, Karlstad/Hammarö
 Theme URI: http://underscores.me/
@@ -404,78 +405,6 @@ table {
   border-collapse: collapse;
   border-spacing: 0; }
 
-/* =Menu
------------------------------------------------ */
-/* line 4, sassy_s/_menu.scss */
-.main-navigation {
-  clear: both;
-  display: block;
-  float: left;
-  width: 100%; }
-  /* line 11, sassy_s/_menu.scss */
-  .main-navigation ul {
-    list-style: none;
-    margin: 0;
-    padding-left: 0; }
-    /* line 16, sassy_s/_menu.scss */
-    .main-navigation ul li {
-      float: left;
-      position: relative; }
-      /* line 20, sassy_s/_menu.scss */
-      .main-navigation ul li a {
-        display: block;
-        text-decoration: none; }
-      /* line 28, sassy_s/_menu.scss */
-      .main-navigation ul li:hover > ul {
-        display: block; }
-    /* line 38, sassy_s/_menu.scss */
-    .main-navigation ul ul {
-      box-shadow: 0 3px 3px rgba(0, 0, 0, 0.2);
-      display: none;
-      float: left;
-      position: absolute;
-      top: 1.5em;
-      left: 0;
-      z-index: 99999; }
-      /* line 52, sassy_s/_menu.scss */
-      .main-navigation ul ul li a {
-        width: 200px; }
-      /* line 59, sassy_s/_menu.scss */
-      .main-navigation ul ul ul {
-        left: 100%;
-        top: 0; }
-
-/* Small menu */
-/* line 70, sassy_s/_menu.scss */
-.menu-toggle {
-  display: none;
-  cursor: pointer; }
-
-@media screen and (max-width: 600px) {
-  /* line 77, sassy_s/_menu.scss */
-  .menu-toggle,
-  .main-navigation.toggled .nav-menu {
-    display: block; }
-
-  /* line 81, sassy_s/_menu.scss */
-  .main-navigation ul {
-    display: none; } }
-/* =Navigation
------------------------------------------------ */
-/* line 4, sassy_s/_navigation.scss */
-.site-main [class*="navigation"] {
-  margin: 0 0 1.5em;
-  overflow: hidden; }
-  /* line 8, sassy_s/_navigation.scss */
-  .site-main [class*="navigation"] .nav-previous {
-    float: left;
-    width: 50%; }
-  /* line 13, sassy_s/_navigation.scss */
-  .site-main [class*="navigation"] .nav-next {
-    float: right;
-    text-align: right;
-    width: 50%; }
-
 /* line 259, sassy_s/foundation/components/_global.scss */
 meta.foundation-version {
   font-family: "/5.1.0/"; }
@@ -532,7 +461,7 @@ body {
   color: #222222;
   padding: 0;
   margin: 0;
-  font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-family: "Titillium Web", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-weight: normal;
   font-style: normal;
   line-height: 1;
@@ -1718,7 +1647,7 @@ select {
       color: #222222;
       padding: 1rem;
       display: block;
-      font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+      font-family: "Titillium Web", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
       font-size: 1rem; }
       /* line 36, sassy_s/foundation/components/_accordion.scss */
       .accordion dd > a:hover {
@@ -2276,7 +2205,7 @@ button, .button {
   border-style: solid;
   border-width: 0px;
   cursor: pointer;
-  font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-family: "Titillium Web", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-weight: normal;
   line-height: normal;
   margin: 0 0 1.25rem;
@@ -3698,7 +3627,7 @@ kbd {
 /* line 87, sassy_s/foundation/components/_labels.scss */
 .label {
   font-weight: normal;
-  font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-family: "Titillium Web", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   text-align: center;
   text-decoration: none;
   line-height: 1;
@@ -4170,7 +4099,7 @@ ul.pagination {
     color: #eeeeee;
     font-weight: normal;
     font-size: 1rem;
-    font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif; }
+    font-family: "Titillium Web", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif; }
   /* line 139, sassy_s/foundation/components/_pricing-tables.scss */
   .pricing-table .price {
     background-color: #f6f6f6;
@@ -4179,7 +4108,7 @@ ul.pagination {
     color: #333333;
     font-weight: normal;
     font-size: 2rem;
-    font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif; }
+    font-family: "Titillium Web", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif; }
   /* line 140, sassy_s/foundation/components/_pricing-tables.scss */
   .pricing-table .description {
     background-color: white;
@@ -4341,7 +4270,7 @@ dialog[open] {
   padding: 0.875rem 0;
   list-style-type: none;
   list-style-position: inside;
-  font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif; }
+  font-family: "Titillium Web", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif; }
   /* line 57, sassy_s/foundation/components/_side-nav.scss */
   .side-nav li {
     margin: 0 0 0.4375rem 0;
@@ -4357,7 +4286,7 @@ dialog[open] {
     .side-nav li.active > a:first-child:not(.button) {
       color: #1cc7ff;
       font-weight: normal;
-      font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif; }
+      font-family: "Titillium Web", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif; }
     /* line 74, sassy_s/foundation/components/_side-nav.scss */
     .side-nav li.divider {
       border-top: 1px solid;
@@ -4497,7 +4426,7 @@ dialog[open] {
     display: inline;
     margin-left: 1rem;
     margin-bottom: 0.625rem;
-    font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+    font-family: "Titillium Web", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
     font-weight: normal;
     font-size: 0.875rem;
     color: #999999; }
@@ -4788,7 +4717,7 @@ table {
       padding-right: 2rem;
       padding-bottom: 1.0625rem;
       padding-left: 2rem;
-      font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+      font-family: "Titillium Web", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
       font-size: 1rem; }
       /* line 43, sassy_s/foundation/components/_tabs.scss */
       .tabs dd > a:hover {
@@ -5147,7 +5076,7 @@ meta.foundation-mq-topbar {
     color: white;
     padding: 12px 0 12px 0;
     padding-left: 15px;
-    font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+    font-family: "Titillium Web", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
     font-size: 0.8125rem;
     font-weight: normal;
     background: #333333; }
@@ -5663,7 +5592,7 @@ p {
 /* Default header styles */
 /* line 260, sassy_s/foundation/components/_type.scss */
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-family: "Titillium Web", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-weight: 300;
   font-style: normal;
   color: #222222;
@@ -6745,3 +6674,120 @@ th.hide-for-touch {
 /* line 330, sassy_s/foundation/components/_visibility.scss */
 .touch th.show-for-touch {
   display: table-cell !important; }
+
+/* line 1, sassy_s/_layout.scss */
+.layout, .site-content {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  margin-bottom: 0;
+  max-width: 77.5rem;
+  *zoom: 1; }
+  /* line 130, sassy_s/foundation/components/_global.scss */
+  .layout:before, .layout:after, .site-content:before, .site-content:after {
+    content: " ";
+    display: table; }
+  /* line 131, sassy_s/foundation/components/_global.scss */
+  .layout:after, .site-content:after {
+    clear: both; }
+
+/* line 4, sassy_s/_layout.scss */
+.site-branding {
+  padding-left: 0.9375rem;
+  padding-right: 0.9375rem;
+  width: 25%;
+  float: left; }
+
+/* line 7, sassy_s/_layout.scss */
+.main-navigation {
+  padding-left: 0.9375rem;
+  padding-right: 0.9375rem;
+  width: 75%;
+  float: left; }
+
+/* line 10, sassy_s/_layout.scss */
+.content-area {
+  padding-left: 0.9375rem;
+  padding-right: 0.9375rem;
+  width: 66.66667%;
+  float: left; }
+
+/* line 13, sassy_s/_layout.scss */
+.widget-area {
+  padding-left: 0.9375rem;
+  padding-right: 0.9375rem;
+  width: 33.33333%;
+  float: left; }
+
+/* line 16, sassy_s/_layout.scss */
+.post-img {
+  width: 100%; }
+
+/* line 20, sassy_s/_layout.scss */
+.entry-header {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  margin-bottom: 0;
+  max-width: 77.5rem;
+  *zoom: 1; }
+  /* line 130, sassy_s/foundation/components/_global.scss */
+  .entry-header:before, .entry-header:after {
+    content: " ";
+    display: table; }
+  /* line 131, sassy_s/foundation/components/_global.scss */
+  .entry-header:after {
+    clear: both; }
+
+/* =Menu
+----------------------------------------------- */
+/* line 8, sassy_s/_menu.scss */
+.main-navigation ul {
+  list-style: none;
+  margin: 0;
+  padding-left: 0; }
+  /* line 13, sassy_s/_menu.scss */
+  .main-navigation ul li {
+    float: left;
+    position: relative; }
+    /* line 17, sassy_s/_menu.scss */
+    .main-navigation ul li a {
+      display: block;
+      text-decoration: none; }
+    /* line 25, sassy_s/_menu.scss */
+    .main-navigation ul li:hover > ul {
+      display: block; }
+  /* line 35, sassy_s/_menu.scss */
+  .main-navigation ul ul {
+    box-shadow: 0 3px 3px rgba(0, 0, 0, 0.2);
+    display: none;
+    float: left;
+    position: absolute;
+    top: 1.5em;
+    left: 0;
+    z-index: 99999; }
+    /* line 49, sassy_s/_menu.scss */
+    .main-navigation ul ul li a {
+      width: 200px; }
+    /* line 56, sassy_s/_menu.scss */
+    .main-navigation ul ul ul {
+      left: 100%;
+      top: 0; }
+
+/* Small menu */
+/* line 67, sassy_s/_menu.scss */
+.menu-toggle {
+  display: none;
+  cursor: pointer; }
+
+@media screen and (max-width: 600px) {
+  /* line 74, sassy_s/_menu.scss */
+  .menu-toggle,
+  .main-navigation.toggled .nav-menu {
+    display: block; }
+
+  /* line 78, sassy_s/_menu.scss */
+  .main-navigation ul {
+    display: none; } }
