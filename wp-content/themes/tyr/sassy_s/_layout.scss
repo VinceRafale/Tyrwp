@@ -21,6 +21,9 @@
       @include grid-column(8);
     }
 }
+.content-area-wide {
+	@include grid-column(12);
+}
 article {
 	@include grid-row();
 }
@@ -37,4 +40,7 @@ article {
 	a {
 		color: $light-grey;
 	}
+}
+.w100 {
+	width: 100%;
 }
