@@ -1,5 +1,9 @@
-.layout, .site-content {
+.container {
 	@include grid-row();
+}
+.site-header {
+	background-color: $light-grey;
+	margin-bottom: 20px;
 }
 .site-branding {
 	@include grid-column(3);
@@ -7,17 +11,30 @@
 .main-navigation {
 	@include grid-column(9);
 }
+.site-content {
+	@include grid-row();
+	padding-bottom: 30px;
+}
 .content-area {
-	@include grid-column(8);
+	@include grid-column(12);
+	@media #{$medium-up} {
+      @include grid-column(8);
+    }
+}
+article {
+	@include grid-row();
 }
 .widget-area {
-	@include grid-column(4);
+	@include grid-column(12);
+	@media #{$medium-up} {
+      @include grid-column(4);
+    }
 }
-.post-img {
-	width: 100%;
-	// margin-bottom: -50px;
-}
-.entry-header {
-	@include grid-row();
-	// padding: 10px 0 10px 40px;
+.site-footer {
+	background-color: $dark-grey;
+	margin-top: 20px;
+	color: white;
+	a {
+		color: $light-grey;
+	}
 }

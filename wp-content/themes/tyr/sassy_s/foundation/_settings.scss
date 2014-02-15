@@ -1,3 +1,22 @@
+// Some common variables and mixins to get you started.
+// Variables allow you to re-use colors, sizes, and other values without repeating
+// yourself. This means that changes that should be small, such as tweaking the
+// coloring or the sizing, can be done in one place, not all over the stylesheet.
+
+$base-font: sans-serif;
+$header-font: $base-font; // you can refer to other variables
+
+// base color scheme
+// $body-background: #fff;
+// $text-color: #404040;
+// $link-color: royalblue;
+// $link-visited: purple;
+
+// Supported Values for $layout:
+//  null | content-sidebar | sidebar-content
+// $layout: null !default;
+// $vspacing: 1.5em;
+
 //
 // FOUNDATION SETTINGS
 //
@@ -51,12 +70,14 @@ $body-font-family: 'Titillium Web', "Helvetica Neue", "Helvetica", Helvetica, Ar
 // $default-float: left;
 
 // We use these as default colors throughout
-// $primary-color: #6e00a1;
-// $secondary-color: #e7e7e7;
-// $alert-color: #f04124;
-// $success-color: #43AC6A;
-// $warning-color: #f08a24;
-// $info-color: #a0d3e8;
+$primary-color: #006747;
+$secondary-color: #4298B5;
+$alert-color: #FED141;
+$success-color: #43AC6A;
+$warning-color: #DA291C;
+$info-color: #4298B5;
+$light-grey: #F6F6F6;
+$dark-grey: #4A4A4A;
 
 // We use these to make sure border radius matches unless we want it different.
 // $global-radius: 3px;

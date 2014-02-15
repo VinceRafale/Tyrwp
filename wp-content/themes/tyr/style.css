@@ -1671,8 +1671,8 @@ select {
   position: relative;
   padding: 0.875rem 1.5rem 0.875rem 0.875rem;
   font-size: 0.8125rem;
-  background-color: #008cba;
-  border-color: #0078a0;
+  background-color: #006747;
+  border-color: #00593d;
   color: white; }
   /* line 105, sassy_s/foundation/components/_alert-boxes.scss */
   .alert-box .close {
@@ -1703,24 +1703,24 @@ select {
     color: white; }
   /* line 111, sassy_s/foundation/components/_alert-boxes.scss */
   .alert-box.alert {
-    background-color: #f04124;
-    border-color: #de2d0f;
+    background-color: #fed141;
+    border-color: #fec615;
     color: white; }
   /* line 112, sassy_s/foundation/components/_alert-boxes.scss */
   .alert-box.secondary {
-    background-color: #e7e7e7;
-    border-color: #c7c7c7;
-    color: #4f4f4f; }
+    background-color: #4298b5;
+    border-color: #39839c;
+    color: white; }
   /* line 113, sassy_s/foundation/components/_alert-boxes.scss */
   .alert-box.warning {
-    background-color: #f08a24;
-    border-color: #de770f;
+    background-color: #da291c;
+    border-color: #bb2318;
     color: white; }
   /* line 114, sassy_s/foundation/components/_alert-boxes.scss */
   .alert-box.info {
-    background-color: #a0d3e8;
-    border-color: #74bfdd;
-    color: #4f4f4f; }
+    background-color: #4298b5;
+    border-color: #39839c;
+    color: white; }
 
 /* line 75, sassy_s/foundation/components/_block-grid.scss */
 [class*="block-grid-"] {
@@ -2147,8 +2147,8 @@ select {
   list-style: none;
   border-style: solid;
   border-width: 1px;
-  background-color: #f4f4f4;
-  border-color: gainsboro;
+  background-color: #a8d1df;
+  border-color: #8cc2d5;
   -webkit-border-radius: 3px;
   border-radius: 3px; }
   /* line 118, sassy_s/foundation/components/_breadcrumbs.scss */
@@ -2164,7 +2164,7 @@ select {
     .breadcrumbs > * a,
     .breadcrumbs > * span {
       text-transform: uppercase;
-      color: #008cba; }
+      color: #006747; }
     /* line 71, sassy_s/foundation/components/_breadcrumbs.scss */
     .breadcrumbs > *.current {
       cursor: default;
@@ -2219,8 +2219,8 @@ button, .button {
   padding-left: 2rem;
   font-size: 1rem;
   /*     @else                            { font-size: $padding - rem-calc(2); } */
-  background-color: #008cba;
-  border-color: #007095;
+  background-color: #006747;
+  border-color: #005239;
   color: white;
   -webkit-transition: background-color 300ms ease-out;
   -moz-transition: background-color 300ms ease-out;
@@ -2232,21 +2232,21 @@ button, .button {
   font-weight: normal !important; }
   /* line 144, sassy_s/foundation/components/_buttons.scss */
   button:hover, button:focus, .button:hover, .button:focus {
-    background-color: #007095; }
+    background-color: #005239; }
   /* line 155, sassy_s/foundation/components/_buttons.scss */
   button:hover, button:focus, .button:hover, .button:focus {
     color: white; }
   /* line 207, sassy_s/foundation/components/_buttons.scss */
   button.secondary, .button.secondary {
-    background-color: #e7e7e7;
-    border-color: #b9b9b9;
-    color: #333333; }
+    background-color: #4298b5;
+    border-color: #357a91;
+    color: white; }
     /* line 144, sassy_s/foundation/components/_buttons.scss */
     button.secondary:hover, button.secondary:focus, .button.secondary:hover, .button.secondary:focus {
-      background-color: #b9b9b9; }
-    /* line 150, sassy_s/foundation/components/_buttons.scss */
+      background-color: #357a91; }
+    /* line 155, sassy_s/foundation/components/_buttons.scss */
     button.secondary:hover, button.secondary:focus, .button.secondary:hover, .button.secondary:focus {
-      color: #333333; }
+      color: white; }
   /* line 208, sassy_s/foundation/components/_buttons.scss */
   button.success, .button.success {
     background-color: #43ac6a;
@@ -2260,12 +2260,12 @@ button, .button {
       color: white; }
   /* line 209, sassy_s/foundation/components/_buttons.scss */
   button.alert, .button.alert {
-    background-color: #f04124;
-    border-color: #cf2a0e;
+    background-color: #fed141;
+    border-color: #fec202;
     color: white; }
     /* line 144, sassy_s/foundation/components/_buttons.scss */
     button.alert:hover, button.alert:focus, .button.alert:hover, .button.alert:focus {
-      background-color: #cf2a0e; }
+      background-color: #fec202; }
     /* line 155, sassy_s/foundation/components/_buttons.scss */
     button.alert:hover, button.alert:focus, .button.alert:hover, .button.alert:focus {
       color: white; }
@@ -2316,8 +2316,8 @@ button, .button {
     border-radius: 1000px; }
   /* line 222, sassy_s/foundation/components/_buttons.scss */
   button.disabled, button[disabled], .button.disabled, .button[disabled] {
-    background-color: #008cba;
-    border-color: #007095;
+    background-color: #006747;
+    border-color: #005239;
     color: white;
     cursor: default;
     opacity: 0.7;
@@ -2325,31 +2325,31 @@ button, .button {
     box-shadow: none; }
     /* line 144, sassy_s/foundation/components/_buttons.scss */
     button.disabled:hover, button.disabled:focus, button[disabled]:hover, button[disabled]:focus, .button.disabled:hover, .button.disabled:focus, .button[disabled]:hover, .button[disabled]:focus {
-      background-color: #007095; }
+      background-color: #005239; }
     /* line 155, sassy_s/foundation/components/_buttons.scss */
     button.disabled:hover, button.disabled:focus, button[disabled]:hover, button[disabled]:focus, .button.disabled:hover, .button.disabled:focus, .button[disabled]:hover, .button[disabled]:focus {
       color: white; }
     /* line 168, sassy_s/foundation/components/_buttons.scss */
     button.disabled:hover, button.disabled:focus, button[disabled]:hover, button[disabled]:focus, .button.disabled:hover, .button.disabled:focus, .button[disabled]:hover, .button[disabled]:focus {
-      background-color: #008cba; }
+      background-color: #006747; }
     /* line 223, sassy_s/foundation/components/_buttons.scss */
     button.disabled.secondary, button[disabled].secondary, .button.disabled.secondary, .button[disabled].secondary {
-      background-color: #e7e7e7;
-      border-color: #b9b9b9;
-      color: #333333;
+      background-color: #4298b5;
+      border-color: #357a91;
+      color: white;
       cursor: default;
       opacity: 0.7;
       -webkit-box-shadow: none;
       box-shadow: none; }
       /* line 144, sassy_s/foundation/components/_buttons.scss */
       button.disabled.secondary:hover, button.disabled.secondary:focus, button[disabled].secondary:hover, button[disabled].secondary:focus, .button.disabled.secondary:hover, .button.disabled.secondary:focus, .button[disabled].secondary:hover, .button[disabled].secondary:focus {
-        background-color: #b9b9b9; }
-      /* line 150, sassy_s/foundation/components/_buttons.scss */
+        background-color: #357a91; }
+      /* line 155, sassy_s/foundation/components/_buttons.scss */
       button.disabled.secondary:hover, button.disabled.secondary:focus, button[disabled].secondary:hover, button[disabled].secondary:focus, .button.disabled.secondary:hover, .button.disabled.secondary:focus, .button[disabled].secondary:hover, .button[disabled].secondary:focus {
-        color: #333333; }
+        color: white; }
       /* line 168, sassy_s/foundation/components/_buttons.scss */
       button.disabled.secondary:hover, button.disabled.secondary:focus, button[disabled].secondary:hover, button[disabled].secondary:focus, .button.disabled.secondary:hover, .button.disabled.secondary:focus, .button[disabled].secondary:hover, .button[disabled].secondary:focus {
-        background-color: #e7e7e7; }
+        background-color: #4298b5; }
     /* line 224, sassy_s/foundation/components/_buttons.scss */
     button.disabled.success, button[disabled].success, .button.disabled.success, .button[disabled].success {
       background-color: #43ac6a;
@@ -2370,8 +2370,8 @@ button, .button {
         background-color: #43ac6a; }
     /* line 225, sassy_s/foundation/components/_buttons.scss */
     button.disabled.alert, button[disabled].alert, .button.disabled.alert, .button[disabled].alert {
-      background-color: #f04124;
-      border-color: #cf2a0e;
+      background-color: #fed141;
+      border-color: #fec202;
       color: white;
       cursor: default;
       opacity: 0.7;
@@ -2379,13 +2379,13 @@ button, .button {
       box-shadow: none; }
       /* line 144, sassy_s/foundation/components/_buttons.scss */
       button.disabled.alert:hover, button.disabled.alert:focus, button[disabled].alert:hover, button[disabled].alert:focus, .button.disabled.alert:hover, .button.disabled.alert:focus, .button[disabled].alert:hover, .button[disabled].alert:focus {
-        background-color: #cf2a0e; }
+        background-color: #fec202; }
       /* line 155, sassy_s/foundation/components/_buttons.scss */
       button.disabled.alert:hover, button.disabled.alert:focus, button[disabled].alert:hover, button[disabled].alert:focus, .button.disabled.alert:hover, .button.disabled.alert:focus, .button[disabled].alert:hover, .button[disabled].alert:focus {
         color: white; }
       /* line 168, sassy_s/foundation/components/_buttons.scss */
       button.disabled.alert:hover, button.disabled.alert:focus, button[disabled].alert:hover, button[disabled].alert:focus, .button.disabled.alert:hover, .button.disabled.alert:focus, .button[disabled].alert:hover, .button[disabled].alert:focus {
-        background-color: #f04124; }
+        background-color: #fed141; }
 
 @media only screen and (min-width: 40.063em) {
   /* line 230, sassy_s/foundation/components/_buttons.scss */
@@ -3349,7 +3349,7 @@ fieldset {
   font-size: 0.75rem;
   font-weight: normal;
   font-style: italic;
-  background: #f04124;
+  background: #fed141;
   color: white; }
 /* line 449, sassy_s/foundation/components/_forms.scss */
 [data-abide] span.error, [data-abide] small.error {
@@ -3364,7 +3364,7 @@ span.error, small.error {
   font-size: 0.75rem;
   font-weight: normal;
   font-style: italic;
-  background: #f04124;
+  background: #fed141;
   color: white; }
 
 /* line 459, sassy_s/foundation/components/_forms.scss */
@@ -3379,7 +3379,7 @@ span.error, small.error {
 /* line 469, sassy_s/foundation/components/_forms.scss */
 .error label,
 .error label.error {
-  color: #f04124; }
+  color: #fed141; }
 /* line 473, sassy_s/foundation/components/_forms.scss */
 .error small.error {
   display: block;
@@ -3389,7 +3389,7 @@ span.error, small.error {
   font-size: 0.75rem;
   font-weight: normal;
   font-style: italic;
-  background: #f04124;
+  background: #fed141;
   color: white; }
 /* line 478, sassy_s/foundation/components/_forms.scss */
 .error > label > small {
@@ -3412,7 +3412,7 @@ textarea.error {
 
 /* line 499, sassy_s/foundation/components/_forms.scss */
 label.error {
-  color: #f04124; }
+  color: #fed141; }
 
 /* line 48, sassy_s/foundation/components/_inline-lists.scss */
 .inline-list {
@@ -3637,7 +3637,7 @@ kbd {
   margin-bottom: inherit;
   padding: 0.25rem 0.5rem 0.375rem;
   font-size: 0.6875rem;
-  background-color: #008cba;
+  background-color: #006747;
   color: white; }
   /* line 92, sassy_s/foundation/components/_labels.scss */
   .label.radius {
@@ -3649,7 +3649,7 @@ kbd {
     border-radius: 1000px; }
   /* line 95, sassy_s/foundation/components/_labels.scss */
   .label.alert {
-    background-color: #f04124;
+    background-color: #fed141;
     color: white; }
   /* line 96, sassy_s/foundation/components/_labels.scss */
   .label.success {
@@ -3657,8 +3657,8 @@ kbd {
     color: white; }
   /* line 97, sassy_s/foundation/components/_labels.scss */
   .label.secondary {
-    background-color: #e7e7e7;
-    color: #333333; }
+    background-color: #4298b5;
+    color: white; }
 
 /* line 14, sassy_s/foundation/components/_magellan.scss */
 [data-magellan-expedition] {
@@ -4003,13 +4003,13 @@ ul.pagination {
       background: transparent; }
     /* line 60, sassy_s/foundation/components/_pagination.scss */
     ul.pagination li.current a {
-      background: #008cba;
+      background: #006747;
       color: white;
       font-weight: bold;
       cursor: default; }
       /* line 67, sassy_s/foundation/components/_pagination.scss */
       ul.pagination li.current a:hover, ul.pagination li.current a:focus {
-        background: #008cba; }
+        background: #006747; }
   /* line 119, sassy_s/foundation/components/_pagination.scss */
   ul.pagination li {
     float: left;
@@ -4053,10 +4053,10 @@ ul.pagination {
   .panel.callout {
     border-style: solid;
     border-width: 1px;
-    border-color: #b6edff;
+    border-color: #b1ffe7;
     margin-bottom: 1.25rem;
     padding: 1.25rem;
-    background: #ecfaff; }
+    background: #e7fff7; }
     /* line 48, sassy_s/foundation/components/_panels.scss */
     .panel.callout > :first-child {
       margin-top: 0; }
@@ -4075,7 +4075,7 @@ ul.pagination {
         line-height: 1.4; }
     /* line 74, sassy_s/foundation/components/_panels.scss */
     .panel.callout a {
-      color: #008cba; }
+      color: #006747; }
   /* line 79, sassy_s/foundation/components/_panels.scss */
   .panel.radius {
     -webkit-border-radius: 3px;
@@ -4144,12 +4144,12 @@ ul.pagination {
   margin-bottom: 0.625rem; }
   /* line 57, sassy_s/foundation/components/_progress-bars.scss */
   .progress .meter {
-    background: #008cba;
+    background: #006747;
     height: 100%;
     display: block; }
   /* line 60, sassy_s/foundation/components/_progress-bars.scss */
   .progress.secondary .meter {
-    background: #e7e7e7;
+    background: #4298b5;
     height: 100%;
     display: block; }
   /* line 61, sassy_s/foundation/components/_progress-bars.scss */
@@ -4159,7 +4159,7 @@ ul.pagination {
     display: block; }
   /* line 62, sassy_s/foundation/components/_progress-bars.scss */
   .progress.alert .meter {
-    background: #f04124;
+    background: #fed141;
     height: 100%;
     display: block; }
   /* line 64, sassy_s/foundation/components/_progress-bars.scss */
@@ -4278,13 +4278,13 @@ dialog[open] {
     /* line 61, sassy_s/foundation/components/_side-nav.scss */
     .side-nav li a:not(.button) {
       display: block;
-      color: #008cba; }
+      color: #006747; }
       /* line 65, sassy_s/foundation/components/_side-nav.scss */
       .side-nav li a:not(.button):hover, .side-nav li a:not(.button):focus {
-        color: #1cc7ff; }
+        color: #00e19b; }
     /* line 68, sassy_s/foundation/components/_side-nav.scss */
     .side-nav li.active > a:first-child:not(.button) {
-      color: #1cc7ff;
+      color: #00e19b;
       font-weight: normal;
       font-family: "Titillium Web", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif; }
     /* line 74, sassy_s/foundation/components/_side-nav.scss */
@@ -4449,7 +4449,7 @@ dialog[open] {
       -webkit-border-radius: 3px;
       border-radius: 3px;
       font-weight: normal;
-      background: #008cba;
+      background: #006747;
       padding: 0.1875rem 1rem;
       cursor: default;
       color: white; }
@@ -4457,7 +4457,7 @@ dialog[open] {
       .sub-nav dt.active a:hover,
       .sub-nav dd.active a:hover,
       .sub-nav li.active a:hover {
-        background: #0078a0; }
+        background: #00593d; }
 
 /* line 289, sassy_s/foundation/components/_switch.scss */
 div.switch {
@@ -4805,8 +4805,8 @@ table {
   transition: all 200ms ease-out; }
   /* line 50, sassy_s/foundation/components/_thumbs.scss */
   .th:hover, .th:focus {
-    -webkit-box-shadow: 0 0 6px 1px rgba(0, 140, 186, 0.5);
-    box-shadow: 0 0 6px 1px rgba(0, 140, 186, 0.5); }
+    -webkit-box-shadow: 0 0 6px 1px rgba(0, 103, 71, 0.5);
+    box-shadow: 0 0 6px 1px rgba(0, 103, 71, 0.5); }
   /* line 67, sassy_s/foundation/components/_thumbs.scss */
   .th.radius {
     -webkit-border-radius: 3px;
@@ -4821,8 +4821,8 @@ table {
   color: #333333; }
   /* line 40, sassy_s/foundation/components/_tooltips.scss */
   .has-tip:hover, .has-tip:focus {
-    border-bottom: dotted 1px #003f54;
-    color: #008cba; }
+    border-bottom: dotted 1px #002e20;
+    color: #006747; }
   /* line 46, sassy_s/foundation/components/_tooltips.scss */
   .has-tip.tip-left, .has-tip.tip-right {
     float: none !important; }
@@ -4864,8 +4864,8 @@ table {
       left: 2rem; }
   /* line 84, sassy_s/foundation/components/_tooltips.scss */
   .tooltip.opened {
-    color: #008cba !important;
-    border-bottom: dotted 1px #003f54 !important; }
+    color: #006747 !important;
+    border-bottom: dotted 1px #002e20 !important; }
 
 /* line 90, sassy_s/foundation/components/_tooltips.scss */
 .tap-to-close {
@@ -5082,19 +5082,19 @@ meta.foundation-mq-topbar {
     background: #333333; }
     /* line 300, sassy_s/foundation/components/_top-bar.scss */
     .top-bar-section ul li > a.button {
-      background: #008cba;
+      background: #006747;
       font-size: 0.8125rem;
       padding-right: 15px;
       padding-left: 15px; }
       /* line 305, sassy_s/foundation/components/_top-bar.scss */
       .top-bar-section ul li > a.button:hover {
-        background: #006688; }
+        background: #004b34; }
     /* line 309, sassy_s/foundation/components/_top-bar.scss */
     .top-bar-section ul li > a.button.secondary {
-      background: #e7e7e7; }
+      background: #4298b5; }
       /* line 311, sassy_s/foundation/components/_top-bar.scss */
       .top-bar-section ul li > a.button.secondary:hover {
-        background: #cecece; }
+        background: #3b87a1; }
     /* line 315, sassy_s/foundation/components/_top-bar.scss */
     .top-bar-section ul li > a.button.success {
       background: #43ac6a; }
@@ -5103,21 +5103,21 @@ meta.foundation-mq-topbar {
         background: #358854; }
     /* line 321, sassy_s/foundation/components/_top-bar.scss */
     .top-bar-section ul li > a.button.alert {
-      background: #f04124; }
+      background: #fed141; }
       /* line 323, sassy_s/foundation/components/_top-bar.scss */
       .top-bar-section ul li > a.button.alert:hover {
-        background: #d42b0f; }
+        background: #fec308; }
   /* line 331, sassy_s/foundation/components/_top-bar.scss */
   .top-bar-section ul li:hover > a {
     background: #272727;
     color: white; }
   /* line 338, sassy_s/foundation/components/_top-bar.scss */
   .top-bar-section ul li.active > a {
-    background: #008cba;
+    background: #006747;
     color: white; }
     /* line 341, sassy_s/foundation/components/_top-bar.scss */
     .top-bar-section ul li.active > a:hover {
-      background: #0078a0;
+      background: #00593d;
       color: white; }
   /* line 349, sassy_s/foundation/components/_top-bar.scss */
   .top-bar-section .has-form {
@@ -5262,10 +5262,10 @@ meta.foundation-mq-topbar {
       padding: 0 15px;
       line-height: 45px;
       color: white;
-      background: #008cba; }
+      background: #006747; }
       /* line 484, sassy_s/foundation/components/_top-bar.scss */
       .top-bar-section li.active:not(.has-form) a:not(.button):hover {
-        background: #0078a0; }
+        background: #00593d; }
     /* line 493, sassy_s/foundation/components/_top-bar.scss */
     .top-bar-section .has-dropdown > a {
       padding-right: 35px !important; }
@@ -5352,7 +5352,7 @@ meta.foundation-mq-topbar {
     color: white; }
   /* line 603, sassy_s/foundation/components/_top-bar.scss */
   .no-js .top-bar-section ul li:active > a {
-    background: #008cba;
+    background: #006747;
     color: white; }
   /* line 611, sassy_s/foundation/components/_top-bar.scss */
   .no-js .top-bar-section .has-dropdown:hover > .dropdown {
@@ -5560,12 +5560,12 @@ td {
 /* Default Link Styles */
 /* line 230, sassy_s/foundation/components/_type.scss */
 a {
-  color: #008cba;
+  color: #006747;
   text-decoration: none;
   line-height: inherit; }
   /* line 236, sassy_s/foundation/components/_type.scss */
   a:hover, a:focus {
-    color: #0078a0; }
+    color: #00593d; }
   /* line 238, sassy_s/foundation/components/_type.scss */
   a img {
     border: none; }
@@ -5668,7 +5668,7 @@ small {
 code {
   font-family: Consolas, "Liberation Mono", Courier, monospace;
   font-weight: bold;
-  color: #bd260d; }
+  color: #e8b101; }
 
 /* Lists */
 /* line 321, sassy_s/foundation/components/_type.scss */
@@ -6676,7 +6676,7 @@ th.hide-for-touch {
   display: table-cell !important; }
 
 /* line 1, sassy_s/_layout.scss */
-.layout, .site-content {
+.container {
   width: 100%;
   margin-left: auto;
   margin-right: auto;
@@ -6685,47 +6685,66 @@ th.hide-for-touch {
   max-width: 77.5rem;
   *zoom: 1; }
   /* line 130, sassy_s/foundation/components/_global.scss */
-  .layout:before, .layout:after, .site-content:before, .site-content:after {
+  .container:before, .container:after {
     content: " ";
     display: table; }
   /* line 131, sassy_s/foundation/components/_global.scss */
-  .layout:after, .site-content:after {
+  .container:after {
     clear: both; }
 
 /* line 4, sassy_s/_layout.scss */
+.site-header {
+  background-color: #f6f6f6;
+  margin-bottom: 20px; }
+
+/* line 8, sassy_s/_layout.scss */
 .site-branding {
   padding-left: 0.9375rem;
   padding-right: 0.9375rem;
   width: 25%;
   float: left; }
 
-/* line 7, sassy_s/_layout.scss */
+/* line 11, sassy_s/_layout.scss */
 .main-navigation {
   padding-left: 0.9375rem;
   padding-right: 0.9375rem;
   width: 75%;
   float: left; }
 
-/* line 10, sassy_s/_layout.scss */
+/* line 14, sassy_s/_layout.scss */
+.site-content {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  margin-bottom: 0;
+  max-width: 77.5rem;
+  *zoom: 1;
+  padding-bottom: 30px; }
+  /* line 130, sassy_s/foundation/components/_global.scss */
+  .site-content:before, .site-content:after {
+    content: " ";
+    display: table; }
+  /* line 131, sassy_s/foundation/components/_global.scss */
+  .site-content:after {
+    clear: both; }
+
+/* line 18, sassy_s/_layout.scss */
 .content-area {
   padding-left: 0.9375rem;
   padding-right: 0.9375rem;
-  width: 66.66667%;
+  width: 100%;
   float: left; }
+  @media only screen and (min-width: 40.063em) {
+    /* line 18, sassy_s/_layout.scss */
+    .content-area {
+      padding-left: 0.9375rem;
+      padding-right: 0.9375rem;
+      width: 66.66667%;
+      float: left; } }
 
-/* line 13, sassy_s/_layout.scss */
-.widget-area {
-  padding-left: 0.9375rem;
-  padding-right: 0.9375rem;
-  width: 33.33333%;
-  float: left; }
-
-/* line 16, sassy_s/_layout.scss */
-.post-img {
-  width: 100%; }
-
-/* line 20, sassy_s/_layout.scss */
-.entry-header {
+/* line 24, sassy_s/_layout.scss */
+article {
   width: 100%;
   margin-left: auto;
   margin-right: auto;
@@ -6734,12 +6753,35 @@ th.hide-for-touch {
   max-width: 77.5rem;
   *zoom: 1; }
   /* line 130, sassy_s/foundation/components/_global.scss */
-  .entry-header:before, .entry-header:after {
+  article:before, article:after {
     content: " ";
     display: table; }
   /* line 131, sassy_s/foundation/components/_global.scss */
-  .entry-header:after {
+  article:after {
     clear: both; }
+
+/* line 27, sassy_s/_layout.scss */
+.widget-area {
+  padding-left: 0.9375rem;
+  padding-right: 0.9375rem;
+  width: 100%;
+  float: left; }
+  @media only screen and (min-width: 40.063em) {
+    /* line 27, sassy_s/_layout.scss */
+    .widget-area {
+      padding-left: 0.9375rem;
+      padding-right: 0.9375rem;
+      width: 33.33333%;
+      float: left; } }
+
+/* line 33, sassy_s/_layout.scss */
+.site-footer {
+  background-color: #4a4a4a;
+  margin-top: 20px;
+  color: white; }
+  /* line 37, sassy_s/_layout.scss */
+  .site-footer a {
+    color: #f6f6f6; }
 
 /* =Menu
 ----------------------------------------------- */
@@ -6765,7 +6807,7 @@ th.hide-for-touch {
     display: none;
     float: left;
     position: absolute;
-    top: 1.5em;
+    top: 150%;
     left: 0;
     z-index: 99999; }
     /* line 49, sassy_s/_menu.scss */
