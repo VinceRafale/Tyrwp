@@ -1,6 +1,6 @@
 @charset "UTF-8";
 @import url(http://fonts.googleapis.com/css?family=Titillium+Web:300,300italic,400,400italic,700);
-/*
+/*!
 Theme Name: Orienteringsklubben Tyr, Karlstad/Hammarö
 Theme URI: http://underscores.me/
 Author: William Hollowell
@@ -1690,8 +1690,8 @@ select {
       opacity: 0.5; }
   /* line 107, sassy_s/foundation/components/_alert-boxes.scss */
   .alert-box.radius {
-    -webkit-border-radius: 3px;
-    border-radius: 3px; }
+    -webkit-border-radius: 5px;
+    border-radius: 5px; }
   /* line 108, sassy_s/foundation/components/_alert-boxes.scss */
   .alert-box.round {
     -webkit-border-radius: 1000px;
@@ -2149,8 +2149,8 @@ select {
   border-width: 1px;
   background-color: #a8d1df;
   border-color: #8cc2d5;
-  -webkit-border-radius: 3px;
-  border-radius: 3px; }
+  -webkit-border-radius: 5px;
+  border-radius: 5px; }
   /* line 118, sassy_s/foundation/components/_breadcrumbs.scss */
   .breadcrumbs > * {
     margin: 0;
@@ -2308,8 +2308,8 @@ button, .button {
     padding-right: 0.75rem; }
   /* line 219, sassy_s/foundation/components/_buttons.scss */
   button.radius, .button.radius {
-    -webkit-border-radius: 3px;
-    border-radius: 3px; }
+    -webkit-border-radius: 5px;
+    border-radius: 5px; }
   /* line 220, sassy_s/foundation/components/_buttons.scss */
   button.round, .button.round {
     -webkit-border-radius: 1000px;
@@ -2427,20 +2427,20 @@ button, .button {
     border-left: 0; }
   /* line 70, sassy_s/foundation/components/_button-groups.scss */
   .button-group.radius > *:first-child, .button-group.radius > *:first-child > a, .button-group.radius > *:first-child > button, .button-group.radius > *:first-child > .button {
-    -moz-border-radius-bottomleft: 3px;
-    -moz-border-radius-topleft: 3px;
-    -webkit-border-bottom-left-radius: 3px;
-    -webkit-border-top-left-radius: 3px;
-    border-bottom-left-radius: 3px;
-    border-top-left-radius: 3px; }
+    -moz-border-radius-bottomleft: 5px;
+    -moz-border-radius-topleft: 5px;
+    -webkit-border-bottom-left-radius: 5px;
+    -webkit-border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px; }
   /* line 74, sassy_s/foundation/components/_button-groups.scss */
   .button-group.radius > *:last-child, .button-group.radius > *:last-child > a, .button-group.radius > *:last-child > button, .button-group.radius > *:last-child > .button {
-    -moz-border-radius-bottomright: 3px;
-    -moz-border-radius-topright: 3px;
-    -webkit-border-bottom-right-radius: 3px;
-    -webkit-border-top-right-radius: 3px;
-    border-bottom-right-radius: 3px;
-    border-top-right-radius: 3px; }
+    -moz-border-radius-bottomright: 5px;
+    -moz-border-radius-topright: 5px;
+    -webkit-border-bottom-right-radius: 5px;
+    -webkit-border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px; }
   /* line 36, sassy_s/foundation/components/_button-groups.scss */
   .button-group.round > * > button, .button-group.round > * .button {
     border-left: 1px solid;
@@ -3039,8 +3039,8 @@ select {
   border-radius: 0; }
   /* line 341, sassy_s/foundation/components/_forms.scss */
   select.radius {
-    -webkit-border-radius: 3px;
-    border-radius: 3px; }
+    -webkit-border-radius: 5px;
+    border-radius: 5px; }
   /* line 342, sassy_s/foundation/components/_forms.scss */
   select:hover {
     background: #f3f3f3 url("data:image/svg+xml;base64, PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgeD0iMHB4IiB5PSIwcHgiIHdpZHRoPSI2cHgiIGhlaWdodD0iM3B4IiB2aWV3Qm94PSIwIDAgNiAzIiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCA2IDMiIHhtbDpzcGFjZT0icHJlc2VydmUiPjxwb2x5Z29uIHBvaW50cz0iNS45OTIsMCAyLjk5MiwzIC0wLjAwOCwwICIvPjwvc3ZnPg==") no-repeat;
@@ -3104,23 +3104,23 @@ select::-ms-expand {
 .prefix.button.radius {
   -webkit-border-radius: 0;
   border-radius: 0;
-  -moz-border-radius-bottomleft: 3px;
-  -moz-border-radius-topleft: 3px;
-  -webkit-border-bottom-left-radius: 3px;
-  -webkit-border-top-left-radius: 3px;
-  border-bottom-left-radius: 3px;
-  border-top-left-radius: 3px; }
+  -moz-border-radius-bottomleft: 5px;
+  -moz-border-radius-topleft: 5px;
+  -webkit-border-bottom-left-radius: 5px;
+  -webkit-border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-top-left-radius: 5px; }
 
 /* line 374, sassy_s/foundation/components/_forms.scss */
 .postfix.button.radius {
   -webkit-border-radius: 0;
   border-radius: 0;
-  -moz-border-radius-bottomright: 3px;
-  -moz-border-radius-topright: 3px;
-  -webkit-border-bottom-right-radius: 3px;
-  -webkit-border-top-right-radius: 3px;
-  border-bottom-right-radius: 3px;
-  border-top-right-radius: 3px; }
+  -moz-border-radius-bottomright: 5px;
+  -moz-border-radius-topright: 5px;
+  -webkit-border-bottom-right-radius: 5px;
+  -webkit-border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border-top-right-radius: 5px; }
 
 /* line 375, sassy_s/foundation/components/_forms.scss */
 .prefix.button.round {
@@ -3155,12 +3155,12 @@ span.prefix, label.prefix {
   span.prefix.radius, label.prefix.radius {
     -webkit-border-radius: 0;
     border-radius: 0;
-    -moz-border-radius-bottomleft: 3px;
-    -moz-border-radius-topleft: 3px;
-    -webkit-border-bottom-left-radius: 3px;
-    -webkit-border-top-left-radius: 3px;
-    border-bottom-left-radius: 3px;
-    border-top-left-radius: 3px; }
+    -moz-border-radius-bottomleft: 5px;
+    -moz-border-radius-topleft: 5px;
+    -webkit-border-bottom-left-radius: 5px;
+    -webkit-border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px; }
 
 /* line 382, sassy_s/foundation/components/_forms.scss */
 span.postfix, label.postfix {
@@ -3172,12 +3172,12 @@ span.postfix, label.postfix {
   span.postfix.radius, label.postfix.radius {
     -webkit-border-radius: 0;
     border-radius: 0;
-    -moz-border-radius-bottomright: 3px;
-    -moz-border-radius-topright: 3px;
-    -webkit-border-bottom-right-radius: 3px;
-    -webkit-border-top-right-radius: 3px;
-    border-bottom-right-radius: 3px;
-    border-top-right-radius: 3px; }
+    -moz-border-radius-bottomright: 5px;
+    -moz-border-radius-topright: 5px;
+    -webkit-border-bottom-right-radius: 5px;
+    -webkit-border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px; }
 
 /* We use this to get basic styling on all basic form elements */
 /* line 400, sassy_s/foundation/components/_forms.scss */
@@ -3295,8 +3295,8 @@ textarea {
   input[type="time"].radius,
   input[type="url"].radius,
   textarea.radius {
-    -webkit-border-radius: 3px;
-    border-radius: 3px; }
+    -webkit-border-radius: 5px;
+    border-radius: 5px; }
 
 /* Add height value for select elements to match text input height */
 /* line 412, sassy_s/foundation/components/_forms.scss */
@@ -3621,8 +3621,8 @@ kbd {
   font-family: "Consolas", "Menlo", "Courier", monospace;
   font-size: inherit;
   padding: 0.125rem 0.25rem 0;
-  -webkit-border-radius: 3px;
-  border-radius: 3px; }
+  -webkit-border-radius: 5px;
+  border-radius: 5px; }
 
 /* line 87, sassy_s/foundation/components/_labels.scss */
 .label {
@@ -3641,8 +3641,8 @@ kbd {
   color: white; }
   /* line 92, sassy_s/foundation/components/_labels.scss */
   .label.radius {
-    -webkit-border-radius: 3px;
-    border-radius: 3px; }
+    -webkit-border-radius: 5px;
+    border-radius: 5px; }
   /* line 93, sassy_s/foundation/components/_labels.scss */
   .label.round {
     -webkit-border-radius: 1000px;
@@ -3988,8 +3988,8 @@ ul.pagination {
       display: block;
       padding: 0.0625rem 0.625rem 0.0625rem;
       color: #999999;
-      -webkit-border-radius: 3px;
-      border-radius: 3px; }
+      -webkit-border-radius: 5px;
+      border-radius: 5px; }
     /* line 109, sassy_s/foundation/components/_pagination.scss */
     ul.pagination li:hover a,
     ul.pagination li a:focus {
@@ -4078,8 +4078,8 @@ ul.pagination {
       color: #006747; }
   /* line 79, sassy_s/foundation/components/_panels.scss */
   .panel.radius {
-    -webkit-border-radius: 3px;
-    border-radius: 3px; }
+    -webkit-border-radius: 5px;
+    border-radius: 5px; }
 
 /* Pricing Tables */
 /* line 135, sassy_s/foundation/components/_pricing-tables.scss */
@@ -4164,12 +4164,12 @@ ul.pagination {
     display: block; }
   /* line 64, sassy_s/foundation/components/_progress-bars.scss */
   .progress.radius {
-    -webkit-border-radius: 3px;
-    border-radius: 3px; }
+    -webkit-border-radius: 5px;
+    border-radius: 5px; }
     /* line 65, sassy_s/foundation/components/_progress-bars.scss */
     .progress.radius .meter {
-      -webkit-border-radius: 2px;
-      border-radius: 2px; }
+      -webkit-border-radius: 4px;
+      border-radius: 4px; }
   /* line 68, sassy_s/foundation/components/_progress-bars.scss */
   .progress.round {
     -webkit-border-radius: 1000px;
@@ -4391,12 +4391,12 @@ dialog[open] {
     border-color: #333333 transparent transparent transparent; }
   /* line 182, sassy_s/foundation/components/_split-buttons.scss */
   .split.button.radius span {
-    -moz-border-radius-bottomright: 3px;
-    -moz-border-radius-topright: 3px;
-    -webkit-border-bottom-right-radius: 3px;
-    -webkit-border-top-right-radius: 3px;
-    border-bottom-right-radius: 3px;
-    border-top-right-radius: 3px; }
+    -moz-border-radius-bottomright: 5px;
+    -moz-border-radius-topright: 5px;
+    -webkit-border-bottom-right-radius: 5px;
+    -webkit-border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px; }
   /* line 183, sassy_s/foundation/components/_split-buttons.scss */
   .split.button.round span {
     -moz-border-radius-bottomright: 1000px;
@@ -4727,20 +4727,20 @@ table {
       background: white; }
   /* line 49, sassy_s/foundation/components/_tabs.scss */
   .tabs.radius dd:first-child a {
-    -moz-border-radius-bottomleft: 3px;
-    -moz-border-radius-topleft: 3px;
-    -webkit-border-bottom-left-radius: 3px;
-    -webkit-border-top-left-radius: 3px;
-    border-bottom-left-radius: 3px;
-    border-top-left-radius: 3px; }
+    -moz-border-radius-bottomleft: 5px;
+    -moz-border-radius-topleft: 5px;
+    -webkit-border-bottom-left-radius: 5px;
+    -webkit-border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px; }
   /* line 52, sassy_s/foundation/components/_tabs.scss */
   .tabs.radius dd:last-child a {
-    -moz-border-radius-bottomright: 3px;
-    -moz-border-radius-topright: 3px;
-    -webkit-border-bottom-right-radius: 3px;
-    -webkit-border-top-right-radius: 3px;
-    border-bottom-right-radius: 3px;
-    border-top-right-radius: 3px; }
+    -moz-border-radius-bottomright: 5px;
+    -moz-border-radius-topright: 5px;
+    -webkit-border-bottom-right-radius: 5px;
+    -webkit-border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px; }
   /* line 56, sassy_s/foundation/components/_tabs.scss */
   .tabs.vertical dd {
     position: inherit;
@@ -4809,8 +4809,8 @@ table {
     box-shadow: 0 0 6px 1px rgba(0, 103, 71, 0.5); }
   /* line 67, sassy_s/foundation/components/_thumbs.scss */
   .th.radius {
-    -webkit-border-radius: 3px;
-    border-radius: 3px; }
+    -webkit-border-radius: 5px;
+    border-radius: 5px; }
 
 /* Tooltips */
 /* line 33, sassy_s/foundation/components/_tooltips.scss */
@@ -4853,8 +4853,8 @@ table {
     top: -10px; }
   /* line 74, sassy_s/foundation/components/_tooltips.scss */
   .tooltip.radius {
-    -webkit-border-radius: 3px;
-    border-radius: 3px; }
+    -webkit-border-radius: 5px;
+    border-radius: 5px; }
   /* line 77, sassy_s/foundation/components/_tooltips.scss */
   .tooltip.round {
     -webkit-border-radius: 1000px;
@@ -5593,7 +5593,7 @@ p {
 /* line 260, sassy_s/foundation/components/_type.scss */
 h1, h2, h3, h4, h5, h6 {
   font-family: "Titillium Web", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
-  font-weight: 300;
+  font-weight: normal;
   font-style: normal;
   color: #222222;
   text-rendering: optimizeLegibility;
@@ -6744,6 +6744,13 @@ th.hide-for-touch {
       float: left; } }
 
 /* line 24, sassy_s/_layout.scss */
+.content-area-wide {
+  padding-left: 0.9375rem;
+  padding-right: 0.9375rem;
+  width: 100%;
+  float: left; }
+
+/* line 27, sassy_s/_layout.scss */
 article {
   width: 100%;
   margin-left: auto;
@@ -6760,28 +6767,32 @@ article {
   article:after {
     clear: both; }
 
-/* line 27, sassy_s/_layout.scss */
+/* line 30, sassy_s/_layout.scss */
 .widget-area {
   padding-left: 0.9375rem;
   padding-right: 0.9375rem;
   width: 100%;
   float: left; }
   @media only screen and (min-width: 40.063em) {
-    /* line 27, sassy_s/_layout.scss */
+    /* line 30, sassy_s/_layout.scss */
     .widget-area {
       padding-left: 0.9375rem;
       padding-right: 0.9375rem;
       width: 33.33333%;
       float: left; } }
 
-/* line 33, sassy_s/_layout.scss */
+/* line 36, sassy_s/_layout.scss */
 .site-footer {
   background-color: #4a4a4a;
   margin-top: 20px;
   color: white; }
-  /* line 37, sassy_s/_layout.scss */
+  /* line 40, sassy_s/_layout.scss */
   .site-footer a {
     color: #f6f6f6; }
+
+/* line 44, sassy_s/_layout.scss */
+.w100 {
+  width: 100%; }
 
 /* =Menu
 ----------------------------------------------- */
