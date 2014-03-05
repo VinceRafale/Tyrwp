@@ -4,10 +4,10 @@
  */
 ?>
 
-<article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
-	<?php if ( has_post_thumbnail() ) : ?>
+<?php if ( has_post_thumbnail() ) : ?>
 			<div class="post-img"><?php the_post_thumbnail(); ?></div>
 		<?php endif; ?>
+<article id="post-<?php the_ID(); ?>" <?php post_class('loop'); ?>>
 	<header class="entry-header">
 		<h1 class="entry-title"><?php the_title(); ?></h1>
 

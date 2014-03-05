@@ -453,7 +453,7 @@ html, body {
 /* line 306, sassy_s/foundation/components/_global.scss */
 html,
 body {
-  font-size: 100%; }
+  font-size: 16px; }
 
 /* line 309, sassy_s/foundation/components/_global.scss */
 body {
@@ -5593,13 +5593,13 @@ p {
 /* line 260, sassy_s/foundation/components/_type.scss */
 h1, h2, h3, h4, h5, h6 {
   font-family: "Titillium Web", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
-  font-weight: normal;
+  font-weight: 300;
   font-style: normal;
   color: #222222;
   text-rendering: optimizeLegibility;
   margin-top: 0.2rem;
   margin-bottom: 0.5rem;
-  line-height: 1.4; }
+  line-height: 1.2; }
   /* line 270, sassy_s/foundation/components/_type.scss */
   h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
     font-size: 60%;
@@ -5608,23 +5608,23 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 277, sassy_s/foundation/components/_type.scss */
 h1 {
-  font-size: 2.125rem; }
+  font-size: 1.6875rem; }
 
 /* line 278, sassy_s/foundation/components/_type.scss */
 h2 {
-  font-size: 1.6875rem; }
+  font-size: 1.0625rem; }
 
 /* line 279, sassy_s/foundation/components/_type.scss */
 h3 {
-  font-size: 1.375rem; }
+  font-size: 1.125rem; }
 
 /* line 280, sassy_s/foundation/components/_type.scss */
 h4 {
-  font-size: 1.125rem; }
+  font-size: 0.8125rem; }
 
 /* line 281, sassy_s/foundation/components/_type.scss */
 h5 {
-  font-size: 1.125rem; }
+  font-size: 0.875rem; }
 
 /* line 282, sassy_s/foundation/components/_type.scss */
 h6 {
@@ -5807,23 +5807,23 @@ blockquote p {
 @media only screen and (min-width: 40.063em) {
   /* line 456, sassy_s/foundation/components/_type.scss */
   h1, h2, h3, h4, h5, h6 {
-    line-height: 1.4; }
+    line-height: 1.2; }
 
   /* line 457, sassy_s/foundation/components/_type.scss */
   h1 {
-    font-size: 2.75rem; }
+    font-size: 2.3125rem; }
 
   /* line 458, sassy_s/foundation/components/_type.scss */
   h2 {
-    font-size: 2.3125rem; }
+    font-size: 1.6875rem; }
 
   /* line 459, sassy_s/foundation/components/_type.scss */
   h3 {
-    font-size: 1.6875rem; }
+    font-size: 1.4375rem; }
 
   /* line 460, sassy_s/foundation/components/_type.scss */
   h4 {
-    font-size: 1.4375rem; } }
+    font-size: 1.125rem; } }
 /*
  * Print styles.
  *
@@ -6133,7 +6133,7 @@ blockquote p {
     margin: 0; }
   /* line 155, sassy_s/foundation/components/_offcanvas.scss */
   .tab-bar h1, .tab-bar h2, .tab-bar h3, .tab-bar h4 {
-    font-size: 1.125rem; }
+    font-size: 0.875rem; }
 
 /* line 266, sassy_s/foundation/components/_offcanvas.scss */
 .left-small {
@@ -6794,53 +6794,129 @@ article {
 .w100 {
   width: 100%; }
 
+/* =Site logo & description
+----------------------------------------------- */
+/* line 4, sassy_s/_menu.scss */
+.site-title a {
+  display: block;
+  width: 60px;
+  /* Or whatever you like */
+  height: 0;
+  padding-top: 50px;
+  /* The required height */
+  text-indent: -999em;
+  /* negative text indent, leaves the box alone, and in ems to scale with text */
+  margin: 20px 0;
+  overflow: hidden;
+  background: url(img/logo.svg); }
+  @media only screen and (min-width: 40.063em) {
+    /* line 4, sassy_s/_menu.scss */
+    .site-title a {
+      width: 170px; } }
+
+/* line 17, sassy_s/_menu.scss */
+.site-description {
+  display: block;
+  width: 0;
+  height: 0;
+  text-indent: -999em;
+  overflow: hidden;
+  margin: 0; }
+
 /* =Menu
 ----------------------------------------------- */
-/* line 8, sassy_s/_menu.scss */
+/* line 31, sassy_s/_menu.scss */
 .main-navigation ul {
   list-style: none;
   margin: 0;
-  padding-left: 0; }
-  /* line 13, sassy_s/_menu.scss */
+  padding-left: 0;
+  padding: 10px; }
+  /* line 37, sassy_s/_menu.scss */
   .main-navigation ul li {
     float: left;
-    position: relative; }
-    /* line 17, sassy_s/_menu.scss */
+    position: relative;
+    padding: 20px; }
+    /* line 43, sassy_s/_menu.scss */
     .main-navigation ul li a {
       display: block;
       text-decoration: none; }
-    /* line 25, sassy_s/_menu.scss */
+    /* line 51, sassy_s/_menu.scss */
     .main-navigation ul li:hover > ul {
       display: block; }
-  /* line 35, sassy_s/_menu.scss */
+  /* line 61, sassy_s/_menu.scss */
   .main-navigation ul ul {
     box-shadow: 0 3px 3px rgba(0, 0, 0, 0.2);
+    background-color: #f6f6f6;
     display: none;
     float: left;
     position: absolute;
-    top: 150%;
+    top: 3em;
     left: 0;
     z-index: 99999; }
-    /* line 49, sassy_s/_menu.scss */
-    .main-navigation ul ul li a {
-      width: 200px; }
-    /* line 56, sassy_s/_menu.scss */
+    /* line 75, sassy_s/_menu.scss */
+    .main-navigation ul ul li {
+      padding: 10px; }
+      /* line 77, sassy_s/_menu.scss */
+      .main-navigation ul ul li:hover {
+        background-color: #4a4a4a; }
+      /* line 80, sassy_s/_menu.scss */
+      .main-navigation ul ul li a {
+        width: 200px; }
+    /* line 87, sassy_s/_menu.scss */
     .main-navigation ul ul ul {
       left: 100%;
       top: 0; }
 
-/* Small menu */
-/* line 67, sassy_s/_menu.scss */
+/* line 96, sassy_s/_menu.scss */
 .menu-toggle {
-  display: none;
+  float: right;
   cursor: pointer; }
 
-@media screen and (max-width: 600px) {
-  /* line 74, sassy_s/_menu.scss */
-  .menu-toggle,
-  .main-navigation.toggled .nav-menu {
+/* line 102, sassy_s/_menu.scss */
+.menu-toggle,
+.main-navigation.toggled .nav-menu {
+  display: block; }
+
+@media only screen and (min-width: 64.063em) {
+  /* line 107, sassy_s/_menu.scss */
+  .main-navigation ul {
     display: block; }
 
-  /* line 78, sassy_s/_menu.scss */
-  .main-navigation ul {
+  /* line 110, sassy_s/_menu.scss */
+  .menu-toggle {
     display: none; } }
+/* line 1, sassy_s/_sidebar.scss */
+.widget {
+  background-color: #f6f6f6;
+  margin-bottom: 20px;
+  padding: 15px; }
+  /* line 5, sassy_s/_sidebar.scss */
+  .widget h1 {
+    font-size: 1.6875rem; }
+  /* line 8, sassy_s/_sidebar.scss */
+  .widget h2 {
+    font-size: 1.5rem; }
+
+@media only screen and (min-width: 64.063em) {
+  /* line 1, sassy_s/_posts.scss */
+  .post-img {
+    margin-bottom: -50px; } }
+
+/* line 7, sassy_s/_posts.scss */
+.loop {
+  max-width: 760px;
+  background-color: white;
+  margin-bottom: 60px;
+  padding: 10px 20px;
+  position: relative;
+  float: right; }
+  /* line 14, sassy_s/_posts.scss */
+  .loop:after {
+    clear: both; }
+
+/* line 1, sassy_s/_featured.scss */
+.featured {
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 500px; }

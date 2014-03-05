@@ -1,0 +1,441 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:IdrottOnline Kalender 2.0
+X-WR-CALNAME:Samlad Tyrkalender
+X-PUBLISHED-TTL:PT15M
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTART:20140213T175000Z
+DTEND:20140213T175000Z
+LOCATION:Våxnäshallen
+CATEGORIES:
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:RFCALITEM6352845242902410140603c66e-93e1-4d54-8f51-ef1fd275bbac
+DTSTAMP:20140213T175000Z
+DESCRIPTION:Välkommen på löpskolning och intervaller i Våxnäshallen. Leif guidar oss genom en tuff intervallträning under vintern. Se schemat här med planering...
+SUMMARY:Intervaller & Löpskolning
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140215T100000Z
+DTEND:20140215T120000Z
+LOCATION:Skogsbackeskolan
+CATEGORIES:
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:RFCALITEM635284524290241014a318f0bc-99cf-49f1-98ee-1a1efb3d5c58
+DTSTAMP:20140215T100000Z
+DESCRIPTION:Innebandy på lördagar i Skogsbackeskolan på Rud med start 2 november och avslut i månadsskiftet mars-april.Träning pågår mellan klockan 11 och 13. Ledare är Oskar Svensson och Jesper Öström. Ta med egen klubba. Välkommen!
+SUMMARY:Innebandy
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140215T101500Z
+DTEND:20140215T131500Z
+LOCATION:KMTI
+CATEGORIES:
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:RFCALITEM63528452429024101491205bf3-9382-4ff4-b1e6-34d52a07905b
+DTSTAMP:20140215T101500Z
+DESCRIPTION:30:e november är starten för vinterns spinningpass inne på KMTI och här kommer en liten uppdatering om vad det är som gäller. Spinningen är först och främst för medlemmar i OK Tyr\, fyller vi inte platserna är även icke medlemmar välkomna\,  "The more the merrier" så att säga. Är man inte medlem på KMTI kostar passen 60 kr per gång och det betalas i receptionen när man kommer dit. Passet startar 1115 och håller på max till 1415. Vi börjar med att köra lite lugnare distanscykling och då tittar vi på världscupen i MTB\, Tour de France eller Giro d' Italia. Sedan är det dags för en av filmerna från företaget The Sufferfest. Filmerna varierar i längd\, allt mellan 48 minuter till 2 timmar och då är det hårdare körning som gäller. Anmälan sker via ett anmälningsformulär som läggs upp på facebook och på hemsidan varje måndag och bokningen stänger fredagar kl 2000\, efter det är det drop-in i mån av plats. Välkomna den 30/11 då vi kommer att kika på första deltävlingen i världscupen i mtb och filmen Blender. 
+SUMMARY:Spinning på KMTI
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140216T093000Z
+DTEND:20140216T093000Z
+LOCATION:
+CATEGORIES:
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:RFCALITEM6352845242902410143f22c456-ddf4-458d-b3a0-2dcb5a3bd723
+DTSTAMP:20140216T093000Z
+DESCRIPTION:Tour Tyr\, långlöpning med ol-karta. Träningstidens längd är viktigare vid den här träningen än det ol-tekniska träningen.Vi börjar träningen klockan 10.30. Träningen kan genomföras individuellt eller i grupp.Träningen utgår från olika platser runt omkring Karlstad\, t ex Tyrstugan\, Våxnäs\, Ulvsby\, Kilene och Skutberget. I bland är det möjligt att duscha i anslutning till träningen men inte alltid.\nVätska finns. Banorna är från 5 till 15 km\, ofta i slingor. Kontrollerna är som regel inte utmärkta. Det blir de mot vårsidan när vi lägger mer tonvikt på ol-tekniken i samband med träningen.Tour Tyr springa alltid på söndagar.Info om var träningen går finns på klubbens hemsida på Anslagstavlan eller på ordinarie nyhetsplats samt på Facebook. \nVälkomna önskarElitkommittén i Tyr 
+SUMMARY:Tour Tyr
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140220T175000Z
+DTEND:20140220T175000Z
+LOCATION:Våxnäshallen
+CATEGORIES:
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:RFCALITEM6352845242902410145539edc4-601f-4a33-891f-80d1d814d4ee
+DTSTAMP:20140220T175000Z
+DESCRIPTION:Välkommen på löpskolning och intervaller i Våxnäshallen. Leif guidar oss genom en tuff intervallträning under vintern. Se schemat här med planering...
+SUMMARY:Intervaller & Löpskolning
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140222T100000Z
+DTEND:20140222T120000Z
+LOCATION:Skogsbackeskolan
+CATEGORIES:
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:RFCALITEM635284524290241014362a749f-680d-4583-a628-2b3e95794851
+DTSTAMP:20140222T100000Z
+DESCRIPTION:Innebandy på lördagar i Skogsbackeskolan på Rud med start 2 november och avslut i månadsskiftet mars-april.Träning pågår mellan klockan 11 och 13. Ledare är Oskar Svensson och Jesper Öström. Ta med egen klubba. Välkommen!
+SUMMARY:Innebandy
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140222T101500Z
+DTEND:20140222T131500Z
+LOCATION:KMTI
+CATEGORIES:
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:RFCALITEM635284524290241014eecfda4e-baca-4204-accc-a45236f575a6
+DTSTAMP:20140222T101500Z
+DESCRIPTION:30:e november är starten för vinterns spinningpass inne på KMTI och här kommer en liten uppdatering om vad det är som gäller. Spinningen är först och främst för medlemmar i OK Tyr\, fyller vi inte platserna är även icke medlemmar välkomna\,  "The more the merrier" så att säga. Är man inte medlem på KMTI kostar passen 60 kr per gång och det betalas i receptionen när man kommer dit. Passet startar 1115 och håller på max till 1415. Vi börjar med att köra lite lugnare distanscykling och då tittar vi på världscupen i MTB\, Tour de France eller Giro d' Italia. Sedan är det dags för en av filmerna från företaget The Sufferfest. Filmerna varierar i längd\, allt mellan 48 minuter till 2 timmar och då är det hårdare körning som gäller. Anmälan sker via ett anmälningsformulär som läggs upp på facebook och på hemsidan varje måndag och bokningen stänger fredagar kl 2000\, efter det är det drop-in i mån av plats. Välkomna den 30/11 då vi kommer att kika på första deltävlingen i världscupen i mtb och filmen Blender. 
+SUMMARY:Spinning på KMTI
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140223T093000Z
+DTEND:20140223T093000Z
+LOCATION:
+CATEGORIES:
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:RFCALITEM63528452429024101409f87ed9-772a-4c3f-81b2-a40a2c5ac1b6
+DTSTAMP:20140223T093000Z
+DESCRIPTION:Tour Tyr\, långlöpning med ol-karta. Träningstidens längd är viktigare vid den här träningen än det ol-tekniska träningen.Vi börjar träningen klockan 10.30. Träningen kan genomföras individuellt eller i grupp.Träningen utgår från olika platser runt omkring Karlstad\, t ex Tyrstugan\, Våxnäs\, Ulvsby\, Kilene och Skutberget. I bland är det möjligt att duscha i anslutning till träningen men inte alltid.\nVätska finns. Banorna är från 5 till 15 km\, ofta i slingor. Kontrollerna är som regel inte utmärkta. Det blir de mot vårsidan när vi lägger mer tonvikt på ol-tekniken i samband med träningen.Tour Tyr springa alltid på söndagar.Info om var träningen går finns på klubbens hemsida på Anslagstavlan eller på ordinarie nyhetsplats samt på Facebook. \nVälkomna önskarElitkommittén i Tyr 
+SUMMARY:Tour Tyr
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140227T175000Z
+DTEND:20140227T175000Z
+LOCATION:Våxnäshallen
+CATEGORIES:
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:RFCALITEM635284524290241014f6950e7a-b2ed-47a6-9fef-826aee70107b
+DTSTAMP:20140227T175000Z
+DESCRIPTION:Välkommen på löpskolning och intervaller i Våxnäshallen. Leif guidar oss genom en tuff intervallträning under vintern. Se schemat här med planering...
+SUMMARY:Intervaller & Löpskolning
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140301T100000Z
+DTEND:20140301T120000Z
+LOCATION:Skogsbackeskolan
+CATEGORIES:
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:RFCALITEM63528452429024101405d26238-3ddc-4c4a-8d96-01267345cc80
+DTSTAMP:20140301T100000Z
+DESCRIPTION:Innebandy på lördagar i Skogsbackeskolan på Rud med start 2 november och avslut i månadsskiftet mars-april.Träning pågår mellan klockan 11 och 13. Ledare är Oskar Svensson och Jesper Öström. Ta med egen klubba. Välkommen!
+SUMMARY:Innebandy
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140301T101500Z
+DTEND:20140301T131500Z
+LOCATION:KMTI
+CATEGORIES:
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:RFCALITEM6352845242902410144c005b04-dcff-4709-8700-8c85ce4a59e7
+DTSTAMP:20140301T101500Z
+DESCRIPTION:30:e november är starten för vinterns spinningpass inne på KMTI och här kommer en liten uppdatering om vad det är som gäller. Spinningen är först och främst för medlemmar i OK Tyr\, fyller vi inte platserna är även icke medlemmar välkomna\,  "The more the merrier" så att säga. Är man inte medlem på KMTI kostar passen 60 kr per gång och det betalas i receptionen när man kommer dit. Passet startar 1115 och håller på max till 1415. Vi börjar med att köra lite lugnare distanscykling och då tittar vi på världscupen i MTB\, Tour de France eller Giro d' Italia. Sedan är det dags för en av filmerna från företaget The Sufferfest. Filmerna varierar i längd\, allt mellan 48 minuter till 2 timmar och då är det hårdare körning som gäller. Anmälan sker via ett anmälningsformulär som läggs upp på facebook och på hemsidan varje måndag och bokningen stänger fredagar kl 2000\, efter det är det drop-in i mån av plats. Välkomna den 30/11 då vi kommer att kika på första deltävlingen i världscupen i mtb och filmen Blender. 
+SUMMARY:Spinning på KMTI
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140302T093000Z
+DTEND:20140302T093000Z
+LOCATION:
+CATEGORIES:
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:RFCALITEM635284524290241014f6345f3b-bc69-4ab1-8778-4c5e001eaace
+DTSTAMP:20140302T093000Z
+DESCRIPTION:Tour Tyr\, långlöpning med ol-karta. Träningstidens längd är viktigare vid den här träningen än det ol-tekniska träningen.Vi börjar träningen klockan 10.30. Träningen kan genomföras individuellt eller i grupp.Träningen utgår från olika platser runt omkring Karlstad\, t ex Tyrstugan\, Våxnäs\, Ulvsby\, Kilene och Skutberget. I bland är det möjligt att duscha i anslutning till träningen men inte alltid.\nVätska finns. Banorna är från 5 till 15 km\, ofta i slingor. Kontrollerna är som regel inte utmärkta. Det blir de mot vårsidan när vi lägger mer tonvikt på ol-tekniken i samband med träningen.Tour Tyr springa alltid på söndagar.Info om var träningen går finns på klubbens hemsida på Anslagstavlan eller på ordinarie nyhetsplats samt på Facebook. \nVälkomna önskarElitkommittén i Tyr 
+SUMMARY:Tour Tyr
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140306T175000Z
+DTEND:20140306T175000Z
+LOCATION:Våxnäshallen
+CATEGORIES:
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:RFCALITEM6352845242902410142c5a554f-0866-4391-a75d-24a2f4ab8cff
+DTSTAMP:20140306T175000Z
+DESCRIPTION:Välkommen på löpskolning och intervaller i Våxnäshallen. Leif guidar oss genom en tuff intervallträning under vintern. Se schemat här med planering...
+SUMMARY:Intervaller & Löpskolning
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140308T100000Z
+DTEND:20140308T120000Z
+LOCATION:Skogsbackeskolan
+CATEGORIES:
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:RFCALITEM635284524290241014002a1f7f-bd3c-46f2-860f-c7f64ed12a02
+DTSTAMP:20140308T100000Z
+DESCRIPTION:Innebandy på lördagar i Skogsbackeskolan på Rud med start 2 november och avslut i månadsskiftet mars-april.Träning pågår mellan klockan 11 och 13. Ledare är Oskar Svensson och Jesper Öström. Ta med egen klubba. Välkommen!
+SUMMARY:Innebandy
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140308T101500Z
+DTEND:20140308T131500Z
+LOCATION:KMTI
+CATEGORIES:
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:RFCALITEM6352845242902410146b5e0bf6-727e-4058-aa1c-ee7b5fed3510
+DTSTAMP:20140308T101500Z
+DESCRIPTION:30:e november är starten för vinterns spinningpass inne på KMTI och här kommer en liten uppdatering om vad det är som gäller. Spinningen är först och främst för medlemmar i OK Tyr\, fyller vi inte platserna är även icke medlemmar välkomna\,  "The more the merrier" så att säga. Är man inte medlem på KMTI kostar passen 60 kr per gång och det betalas i receptionen när man kommer dit. Passet startar 1115 och håller på max till 1415. Vi börjar med att köra lite lugnare distanscykling och då tittar vi på världscupen i MTB\, Tour de France eller Giro d' Italia. Sedan är det dags för en av filmerna från företaget The Sufferfest. Filmerna varierar i längd\, allt mellan 48 minuter till 2 timmar och då är det hårdare körning som gäller. Anmälan sker via ett anmälningsformulär som läggs upp på facebook och på hemsidan varje måndag och bokningen stänger fredagar kl 2000\, efter det är det drop-in i mån av plats. Välkomna den 30/11 då vi kommer att kika på första deltävlingen i världscupen i mtb och filmen Blender. 
+SUMMARY:Spinning på KMTI
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140309T093000Z
+DTEND:20140309T093000Z
+LOCATION:
+CATEGORIES:
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:RFCALITEM63528452429024101453f273a4-a3c7-4d02-b899-1c69bf97bc4c
+DTSTAMP:20140309T093000Z
+DESCRIPTION:Tour Tyr\, långlöpning med ol-karta. Träningstidens längd är viktigare vid den här träningen än det ol-tekniska träningen.Vi börjar träningen klockan 10.30. Träningen kan genomföras individuellt eller i grupp.Träningen utgår från olika platser runt omkring Karlstad\, t ex Tyrstugan\, Våxnäs\, Ulvsby\, Kilene och Skutberget. I bland är det möjligt att duscha i anslutning till träningen men inte alltid.\nVätska finns. Banorna är från 5 till 15 km\, ofta i slingor. Kontrollerna är som regel inte utmärkta. Det blir de mot vårsidan när vi lägger mer tonvikt på ol-tekniken i samband med träningen.Tour Tyr springa alltid på söndagar.Info om var träningen går finns på klubbens hemsida på Anslagstavlan eller på ordinarie nyhetsplats samt på Facebook. \nVälkomna önskarElitkommittén i Tyr 
+SUMMARY:Tour Tyr
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140310T170000Z
+DTEND:20140310T170000Z
+LOCATION:
+CATEGORIES:
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:RFCALITEM635284524290241014c0ae97c2-47e2-4b81-951e-8db3e68fb5a1
+DTSTAMP:20140310T170000Z
+DESCRIPTION:
+SUMMARY:Styrelsemöte
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140313T175000Z
+DTEND:20140313T175000Z
+LOCATION:Våxnäshallen
+CATEGORIES:
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:RFCALITEM635284524290241014f4db2a0e-b4be-46a0-b2ab-3105ca7bf153
+DTSTAMP:20140313T175000Z
+DESCRIPTION:Välkommen på löpskolning och intervaller i Våxnäshallen. Leif guidar oss genom en tuff intervallträning under vintern. Se schemat här med planering...
+SUMMARY:Intervaller & Löpskolning
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140315T100000Z
+DTEND:20140315T120000Z
+LOCATION:Skogsbackeskolan
+CATEGORIES:
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:RFCALITEM6352845242902410144920794a-9862-40e9-a584-c9964aa0b8b0
+DTSTAMP:20140315T100000Z
+DESCRIPTION:Innebandy på lördagar i Skogsbackeskolan på Rud med start 2 november och avslut i månadsskiftet mars-april.Träning pågår mellan klockan 11 och 13. Ledare är Oskar Svensson och Jesper Öström. Ta med egen klubba. Välkommen!
+SUMMARY:Innebandy
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140315T101500Z
+DTEND:20140315T131500Z
+LOCATION:KMTI
+CATEGORIES:
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:RFCALITEM6352845242902410146b99e958-8194-4210-84b3-b03febcc584b
+DTSTAMP:20140315T101500Z
+DESCRIPTION:30:e november är starten för vinterns spinningpass inne på KMTI och här kommer en liten uppdatering om vad det är som gäller. Spinningen är först och främst för medlemmar i OK Tyr\, fyller vi inte platserna är även icke medlemmar välkomna\,  "The more the merrier" så att säga. Är man inte medlem på KMTI kostar passen 60 kr per gång och det betalas i receptionen när man kommer dit. Passet startar 1115 och håller på max till 1415. Vi börjar med att köra lite lugnare distanscykling och då tittar vi på världscupen i MTB\, Tour de France eller Giro d' Italia. Sedan är det dags för en av filmerna från företaget The Sufferfest. Filmerna varierar i längd\, allt mellan 48 minuter till 2 timmar och då är det hårdare körning som gäller. Anmälan sker via ett anmälningsformulär som läggs upp på facebook och på hemsidan varje måndag och bokningen stänger fredagar kl 2000\, efter det är det drop-in i mån av plats. Välkomna den 30/11 då vi kommer att kika på första deltävlingen i världscupen i mtb och filmen Blender. 
+SUMMARY:Spinning på KMTI
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140316T093000Z
+DTEND:20140316T093000Z
+LOCATION:
+CATEGORIES:
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:RFCALITEM6352845242902410145cc01010-531e-4dbe-b061-12f8857c7446
+DTSTAMP:20140316T093000Z
+DESCRIPTION:Tour Tyr\, långlöpning med ol-karta. Träningstidens längd är viktigare vid den här träningen än det ol-tekniska träningen.Vi börjar träningen klockan 10.30. Träningen kan genomföras individuellt eller i grupp.Träningen utgår från olika platser runt omkring Karlstad\, t ex Tyrstugan\, Våxnäs\, Ulvsby\, Kilene och Skutberget. I bland är det möjligt att duscha i anslutning till träningen men inte alltid.\nVätska finns. Banorna är från 5 till 15 km\, ofta i slingor. Kontrollerna är som regel inte utmärkta. Det blir de mot vårsidan när vi lägger mer tonvikt på ol-tekniken i samband med träningen.Tour Tyr springa alltid på söndagar.Info om var träningen går finns på klubbens hemsida på Anslagstavlan eller på ordinarie nyhetsplats samt på Facebook. \nVälkomna önskarElitkommittén i Tyr 
+SUMMARY:Tour Tyr
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140316T140000Z
+DTEND:20140316T140000Z
+LOCATION:Tyrstugan
+CATEGORIES:
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:RFCALITEM63528452429024101470413fc1-f3dc-4071-80dd-7aec3fceab7b
+DTSTAMP:20140316T140000Z
+DESCRIPTION:
+SUMMARY:Årsmöte OK Tyr
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140320T175000Z
+DTEND:20140320T175000Z
+LOCATION:Våxnäshallen
+CATEGORIES:
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:RFCALITEM63528452429024101425c79953-d9c9-43c5-9848-43c6099ff58d
+DTSTAMP:20140320T175000Z
+DESCRIPTION:Välkommen på löpskolning och intervaller i Våxnäshallen. Leif guidar oss genom en tuff intervallträning under vintern. Se schemat här med planering...
+SUMMARY:Intervaller & Löpskolning
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140322T100000Z
+DTEND:20140322T120000Z
+LOCATION:Skogsbackeskolan
+CATEGORIES:
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:RFCALITEM635284524290241014c247b5ef-5eb9-4b7f-bff2-00835781181f
+DTSTAMP:20140322T100000Z
+DESCRIPTION:Innebandy på lördagar i Skogsbackeskolan på Rud med start 2 november och avslut i månadsskiftet mars-april.Träning pågår mellan klockan 11 och 13. Ledare är Oskar Svensson och Jesper Öström. Ta med egen klubba. Välkommen!
+SUMMARY:Innebandy
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140322T101500Z
+DTEND:20140322T131500Z
+LOCATION:KMTI
+CATEGORIES:
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:RFCALITEM63528452429024101438d0f864-0a94-4286-9aaa-2bd5cc0000fb
+DTSTAMP:20140322T101500Z
+DESCRIPTION:30:e november är starten för vinterns spinningpass inne på KMTI och här kommer en liten uppdatering om vad det är som gäller. Spinningen är först och främst för medlemmar i OK Tyr\, fyller vi inte platserna är även icke medlemmar välkomna\,  "The more the merrier" så att säga. Är man inte medlem på KMTI kostar passen 60 kr per gång och det betalas i receptionen när man kommer dit. Passet startar 1115 och håller på max till 1415. Vi börjar med att köra lite lugnare distanscykling och då tittar vi på världscupen i MTB\, Tour de France eller Giro d' Italia. Sedan är det dags för en av filmerna från företaget The Sufferfest. Filmerna varierar i längd\, allt mellan 48 minuter till 2 timmar och då är det hårdare körning som gäller. Anmälan sker via ett anmälningsformulär som läggs upp på facebook och på hemsidan varje måndag och bokningen stänger fredagar kl 2000\, efter det är det drop-in i mån av plats. Välkomna den 30/11 då vi kommer att kika på första deltävlingen i världscupen i mtb och filmen Blender. 
+SUMMARY:Spinning på KMTI
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140323T093000Z
+DTEND:20140323T093000Z
+LOCATION:
+CATEGORIES:
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:RFCALITEM6352845242902410147b63ec51-ccfd-4e04-8f9a-44cd28b42eae
+DTSTAMP:20140323T093000Z
+DESCRIPTION:Tour Tyr\, långlöpning med ol-karta. Träningstidens längd är viktigare vid den här träningen än det ol-tekniska träningen.Vi börjar träningen klockan 10.30. Träningen kan genomföras individuellt eller i grupp.Träningen utgår från olika platser runt omkring Karlstad\, t ex Tyrstugan\, Våxnäs\, Ulvsby\, Kilene och Skutberget. I bland är det möjligt att duscha i anslutning till träningen men inte alltid.\nVätska finns. Banorna är från 5 till 15 km\, ofta i slingor. Kontrollerna är som regel inte utmärkta. Det blir de mot vårsidan när vi lägger mer tonvikt på ol-tekniken i samband med träningen.Tour Tyr springa alltid på söndagar.Info om var träningen går finns på klubbens hemsida på Anslagstavlan eller på ordinarie nyhetsplats samt på Facebook. \nVälkomna önskarElitkommittén i Tyr 
+SUMMARY:Tour Tyr
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140327T175000Z
+DTEND:20140327T175000Z
+LOCATION:Våxnäshallen
+CATEGORIES:
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:RFCALITEM6352845242902410149e45102d-f0c3-4c7a-b71e-28a39e8e4b66
+DTSTAMP:20140327T175000Z
+DESCRIPTION:Välkommen på löpskolning och intervaller i Våxnäshallen. Leif guidar oss genom en tuff intervallträning under vintern. Se schemat här med planering...
+SUMMARY:Intervaller & Löpskolning
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140329T100000Z
+DTEND:20140329T120000Z
+LOCATION:Skogsbackeskolan
+CATEGORIES:
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:RFCALITEM6352845242902410148e9a3993-12da-4a69-9375-88de7246a602
+DTSTAMP:20140329T100000Z
+DESCRIPTION:Innebandy på lördagar i Skogsbackeskolan på Rud med start 2 november och avslut i månadsskiftet mars-april.Träning pågår mellan klockan 11 och 13. Ledare är Oskar Svensson och Jesper Öström. Ta med egen klubba. Välkommen!
+SUMMARY:Innebandy
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140329T101500Z
+DTEND:20140329T131500Z
+LOCATION:KMTI
+CATEGORIES:
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:RFCALITEM6352845242902410141f31f1ce-5739-4ddb-b340-b8a9b0672f61
+DTSTAMP:20140329T101500Z
+DESCRIPTION:30:e november är starten för vinterns spinningpass inne på KMTI och här kommer en liten uppdatering om vad det är som gäller. Spinningen är först och främst för medlemmar i OK Tyr\, fyller vi inte platserna är även icke medlemmar välkomna\,  "The more the merrier" så att säga. Är man inte medlem på KMTI kostar passen 60 kr per gång och det betalas i receptionen när man kommer dit. Passet startar 1115 och håller på max till 1415. Vi börjar med att köra lite lugnare distanscykling och då tittar vi på världscupen i MTB\, Tour de France eller Giro d' Italia. Sedan är det dags för en av filmerna från företaget The Sufferfest. Filmerna varierar i längd\, allt mellan 48 minuter till 2 timmar och då är det hårdare körning som gäller. Anmälan sker via ett anmälningsformulär som läggs upp på facebook och på hemsidan varje måndag och bokningen stänger fredagar kl 2000\, efter det är det drop-in i mån av plats. Välkomna den 30/11 då vi kommer att kika på första deltävlingen i världscupen i mtb och filmen Blender. 
+SUMMARY:Spinning på KMTI
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140330T083000Z
+DTEND:20140330T083000Z
+LOCATION:
+CATEGORIES:
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:RFCALITEM635284524290241014a12c1173-5245-4675-8810-6f520cea4873
+DTSTAMP:20140330T083000Z
+DESCRIPTION:Tour Tyr\, långlöpning med ol-karta. Träningstidens längd är viktigare vid den här träningen än det ol-tekniska träningen.Vi börjar träningen klockan 10.30. Träningen kan genomföras individuellt eller i grupp.Träningen utgår från olika platser runt omkring Karlstad\, t ex Tyrstugan\, Våxnäs\, Ulvsby\, Kilene och Skutberget. I bland är det möjligt att duscha i anslutning till träningen men inte alltid.\nVätska finns. Banorna är från 5 till 15 km\, ofta i slingor. Kontrollerna är som regel inte utmärkta. Det blir de mot vårsidan när vi lägger mer tonvikt på ol-tekniken i samband med träningen.Tour Tyr springa alltid på söndagar.Info om var träningen går finns på klubbens hemsida på Anslagstavlan eller på ordinarie nyhetsplats samt på Facebook. \nVälkomna önskarElitkommittén i Tyr 
+SUMMARY:Tour Tyr
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140405T091500Z
+DTEND:20140405T121500Z
+LOCATION:KMTI
+CATEGORIES:
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:RFCALITEM635284524290241014fed6816e-e4f3-4a3d-91ea-2f51a3d065a2
+DTSTAMP:20140405T091500Z
+DESCRIPTION:30:e november är starten för vinterns spinningpass inne på KMTI och här kommer en liten uppdatering om vad det är som gäller. Spinningen är först och främst för medlemmar i OK Tyr\, fyller vi inte platserna är även icke medlemmar välkomna\,  "The more the merrier" så att säga. Är man inte medlem på KMTI kostar passen 60 kr per gång och det betalas i receptionen när man kommer dit. Passet startar 1115 och håller på max till 1415. Vi börjar med att köra lite lugnare distanscykling och då tittar vi på världscupen i MTB\, Tour de France eller Giro d' Italia. Sedan är det dags för en av filmerna från företaget The Sufferfest. Filmerna varierar i längd\, allt mellan 48 minuter till 2 timmar och då är det hårdare körning som gäller. Anmälan sker via ett anmälningsformulär som läggs upp på facebook och på hemsidan varje måndag och bokningen stänger fredagar kl 2000\, efter det är det drop-in i mån av plats. Välkomna den 30/11 då vi kommer att kika på första deltävlingen i världscupen i mtb och filmen Blender. 
+SUMMARY:Spinning på KMTI
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

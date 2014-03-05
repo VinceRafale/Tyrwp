@@ -1,0 +1,17 @@
+.post-img {
+	@media #{$large-up} {
+	margin-bottom: -50px;
+	}
+}
+
+.loop {
+	max-width: 760px;
+	background-color: white;
+	margin-bottom: 60px;
+	padding: 10px 20px;
+	position: relative;
+	float: right;
+	&:after {
+		clear: both;
+	}
+}

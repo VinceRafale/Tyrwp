@@ -1,0 +1,11 @@
+.widget {
+	background-color: $light-grey;
+	margin-bottom: 20px;
+	padding: 15px;
+	h1 {
+		font-size: rem-calc(27);
+	}
+	h2 {
+		font-size: rem-calc(24);
+	}
+}

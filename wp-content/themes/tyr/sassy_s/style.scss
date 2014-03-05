@@ -30,6 +30,8 @@ and Blueprint http://www.blueprintcss.org/
 // reset styles should stay at the top
 @import 'normalize';
 
+@import "compass";
+
 // Make sure the charset is set appropriately
 @charset "UTF-8";
 
@@ -75,17 +77,10 @@ and Blueprint http://www.blueprintcss.org/
 // @import 'mixins';
 
 // feel free to add any new files you want; if you add them this list they'll be included
-// @import 'theme-inc/global';
-// @import 'theme-inc/typography';
-// @import 'theme-inc/forms';
 @import 'layout';
 @import 'menu';
-// @import 'theme-inc/content';
-// @import 'theme-inc/postformats';
-// @import 'theme-inc/media';
-// @import 'navigation';
-// @import 'theme-inc/comments';
-// @import 'theme-inc/widgets';
-// @import 'theme-inc/infinitescroll';
-// @import 'foundation';
+@import 'sidebar';
+@import 'posts';
+@import 'featured';
+
 

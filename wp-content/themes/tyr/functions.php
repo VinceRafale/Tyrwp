@@ -79,6 +79,22 @@ function tyr_widgets_init() {
 add_action( 'widgets_init', 'tyr_widgets_init' );
 
 /**
+ * Custom login logo link
+ */
+
+add_filter( 'login_headerurl', 'custom_login_header_url' );
+function custom_login_header_url($url) {
+return 'http://oktyr.se/';
+}
+
+function custom_login_css() {
+echo '<link rel="stylesheet" type="text/css" href="'.get_stylesheet_directory_uri().'login-styles.css" />';
+}
+
+add_action('login_head', 'custom_login_css');
+
+
+/**
  * Enqueue scripts and styles.
  */
 function tyr_scripts() {
