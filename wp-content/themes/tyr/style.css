@@ -6885,10 +6885,34 @@ article {
   padding: 15px; }
   /* line 5, sassy_s/_sidebar.scss */
   .widget h1 {
-    font-size: 1.6875rem; }
+    font-size: 1.25rem; }
   /* line 8, sassy_s/_sidebar.scss */
   .widget h2 {
-    font-size: 1.5rem; }
+    font-size: 1.125rem; }
+  /* line 11, sassy_s/_sidebar.scss */
+  .widget h3 {
+    font-size: 0.875rem; }
+
+/* line 16, sassy_s/_sidebar.scss */
+.widget-title {
+  background-color: #006747;
+  color: white;
+  margin: -15px -15px 15px -15px;
+  padding: 15px; }
+
+/* line 23, sassy_s/_sidebar.scss */
+.CSSable_Countdown {
+  background-color: #006747;
+  color: white;
+  font-size: 1.75rem;
+  text-align: center; }
+
+/* line 29, sassy_s/_sidebar.scss */
+.countdown_descr {
+  text-transform: uppercase !important;
+  font-size: 0.875rem;
+  font-weight: 400;
+  padding: 10px 0; }
 
 @media only screen and (min-width: 64.063em) {
   /* line 1, sassy_s/_posts.scss */
