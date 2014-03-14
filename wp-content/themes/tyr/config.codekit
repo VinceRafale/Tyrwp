@@ -74,6 +74,14 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsSetByUser": 0
 		},
+	"\/featured-posts.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/featured-posts.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
 	"\/featuredwide-page.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1340,7 +1348,7 @@
 		"inputAbbreviatedPath": "\/screenshot.png",
 		"outputAbbreviatedPath": "\/screenshot.png",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/search.php": {
 		"fileType": 8192,
