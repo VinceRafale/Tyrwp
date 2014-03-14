@@ -3,9 +3,32 @@
 	margin-bottom: 20px;
 	padding: 15px;
 	h1 {
-		font-size: rem-calc(27);
+		font-size: rem-calc(20);
 	}
 	h2 {
-		font-size: rem-calc(24);
+		font-size: rem-calc(18);
 	}
+	h3 {
+		font-size: rem-calc(14);
+	}
+}
+
+.widget-title {
+	background-color: $primary-color;
+	color: white;
+	margin: -15px -15px 15px -15px;
+	padding: 15px;
+}
+
+.CSSable_Countdown {
+	background-color: $primary-color;
+	color: white;
+	font-size: rem-calc(28);
+	text-align: center;
+}
+.countdown_descr {
+	text-transform: uppercase !important;
+	font-size: rem-calc(14);
+	font-weight: 400;
+	padding: 10px 0;
 }
