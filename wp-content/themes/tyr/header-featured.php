@@ -36,11 +36,11 @@
 			</nav><!-- #site-navigation -->
 		</div>
 			<?php if ( get_header_image() ) : ?>
-			<div class="featured" style=" background-image: url(<?php header_image(); ?>), -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #df5c27), color-stop(100%, #d9423d));
-background-image: url(<?php header_image(); ?>), -webkit-linear-gradient(#df5c27, #d9423d);
-background-image: url(<?php header_image(); ?>), -moz-linear-gradient(#df5c27, #d9423d);
-background-image: url(<?php header_image(); ?>), -o-linear-gradient(#df5c27, #d9423d);
-background-image: url(<?php header_image(); ?>), linear-gradient(#df5c27, #d9423d);">
+			<div class="featured" style=" background-image: url(<?php header_image(); ?>), -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #006747), color-stop(100%, #4298B5));
+background-image: url(<?php header_image(); ?>), -webkit-linear-gradient(#006747, #4298B5);
+background-image: url(<?php header_image(); ?>), -moz-linear-gradient(#006747, #4298B5);
+background-image: url(<?php header_image(); ?>), -o-linear-gradient(#006747, #4298B5);
+background-image: url(<?php header_image(); ?>), linear-gradient(#006747, #4298B5);">
 			</div>
 			<?php endif; // End header image check. ?>
 	</header><!-- #masthead -->
