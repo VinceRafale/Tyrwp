@@ -16,16 +16,16 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'tyr');
+define('DB_NAME', 'tyrdev');
 
 /** MySQL database username */
-define('DB_USER', 'tyr');
+define('DB_USER', 'tyrdev');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'okpass99tyr');
+define('DB_PASSWORD', 'OKpass99tyr');
 
 /** MySQL hostname */
-define('DB_HOST', 'tyr.dev');
+define('DB_HOST', 'localhost');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
@@ -42,14 +42,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         '_k(&{*4nb]T>(Af,9,N5cD89byX%WlX=`vj2[1bt3dYm?+9TR-|~T8b~|bF)N-Vy');
-define('SECURE_AUTH_KEY',  'XOD?-N&%Y&[3mw9)G jFF/tN-d_>;e4 /;TVq/}f}kv@gRv~f,NFI+MjYxzw6]2_');
-define('LOGGED_IN_KEY',    '|Cs@cNQ],TeI,-/>$[x{D*96GlYz/;ByEd#G#4 ;Z1>cRl&{25VaMNru@O.wc0K6');
-define('NONCE_KEY',        'tL*Ia}g.SiI?TBIlg!GV8q::pT*GW)H]+l.Uu}S#%_jbEsO&D@ogM jx,-|O_iPE');
-define('AUTH_SALT',        'u|Tj3h}L{XO9j2{/!4*rnZC:B+Q__&1=y`{g-b|8JJm-{V{2pHpkeBd ti$=TvvV');
-define('SECURE_AUTH_SALT', 'jT<KoKfw;ON9vWaYw5%+EY^_d#R_AZck1Oude-Npq)g&B<OWy{0s~HeF|zOP93g+');
-define('LOGGED_IN_SALT',   'sq/1HA<=kOpki.Cg4J|C0^]IIS:5M@]dlPABiTm&e2]9%>1KdLJg3&}-%C) 8?~B');
-define('NONCE_SALT',       'X{H(he}$n7c6<@1+e?yx3zP+|[Igx^bjl2s/_46K?@Y%we+H2?@k_/,8&jkmUJ>}');
+define('AUTH_KEY',         '<F,kX0vvi_R:7C);=M8M)lsq2^X6]xLb_4q%H+-A,B;/l|#8{{h|9F7.TQKu;>Sn');
+define('SECURE_AUTH_KEY',  'FjJ#C.9xYn;r{#}Scdnu25(Q@#TYK8ae4X^QpX`WEH]1Bf@_VyNIma0yBR=ar)5-');
+define('LOGGED_IN_KEY',    'Sd-Lhn!I=(g$0DUx|peJmH|m^Y?i[sbBZd+`}1ZwtOl{.XY7gU2AJR@|.cc-w~7/');
+define('NONCE_KEY',        '&{ [_jTe#.:],IhEy:/?ED!v?~c4Pr[HIU8i=NsQod|_@xN/HXFAl}wL#,bPNovk');
+define('AUTH_SALT',        ' tlT{*qS- hzi]([{0 /R.?A3s~H$4Z~I|oyYx>|R=It3:%&YSj$-ZgV-jT/5(Rg');
+define('SECURE_AUTH_SALT', 'pcM:9$(-t[Q$>?UMPSkOq&K qShhM({S1S+Ad${j;R`$U<i|6-/JuOL?:U#Lr6Ps');
+define('LOGGED_IN_SALT',   'qz5pt[6Fys@I&6dYb{VCA4:VF&Lqj+,J@>D1JZ}bjt+hD/-Z9xO?xOyA,+mEa4TY');
+define('NONCE_SALT',       '$ky+U=Yr=v5Pv-rgkJ}V}?hyT!v-9=qp2RC+8gWr|GsgZ$f`%HV+(=G1Kcq<S4Wr');
 
 /**#@-*/
 
@@ -59,7 +59,7 @@ define('NONCE_SALT',       'X{H(he}$n7c6<@1+e?yx3zP+|[Igx^bjl2s/_46K?@Y%we+H2?@k
  * You can have multiple installations in one database if you give each a unique
  * prefix. Only numbers, letters, and underscores please!
  */
-$table_prefix  = 'wp_';
+$table_prefix  = 'tyrdev_';
 
 /**
  * WordPress Localized Language, defaults to English.
@@ -69,7 +69,7 @@ $table_prefix  = 'wp_';
  * de_DE.mo to wp-content/languages and set WPLANG to 'de_DE' to enable German
  * language support.
  */
-define('WPLANG', 'sv_SE');
+define('WPLANG', '');
 
 /**
  * For developers: WordPress debugging mode.
